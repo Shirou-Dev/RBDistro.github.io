@@ -970,7 +970,7 @@
           "name": "Schwarz Origin Update.jar",
           "type": "File",
           "artifact": {
-            "size": 269187,
+            "size": 268412,
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Schwarz%20Origin%20Update.jar",
             "path": "mods/Schwarz Origin Update.jar"
           }
@@ -1043,6 +1043,16 @@
             "size": 238532,
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/trinkets-3.7.2.jar",
             "path": "mods/trinkets-3.7.2.jar"
+          }
+        },
+        {
+          "id": "Vampire fIX 1-v2.2.0.jar",
+          "name": "Vampire fIX 1-v2.2.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 198439,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Vampire%20fIX%201-v2.2.0.jar",
+            "path": "mods/Vampire fIX 1-v2.2.0.jar"
           }
         },
         {
