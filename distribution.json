@@ -297,6 +297,17 @@
           }
         },
         {
+          "id": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.13.jar",
+          "name": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.13.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1424654,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/c2me-fabric-mc1.20.1-0.2.0+alpha.11.13.jar",
+            "MD5": "d11d3e2566c8ef1aee6fddd52d62932e",
+            "path": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.13.jar"
+          }
+        },
+        {
           "id": "carpet-fixes-1.20-1.16.1.jar",
           "name": "carpet-fixes-1.20-1.16.1.jar",
           "type": "File",
@@ -338,6 +349,17 @@
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/chidoriorigins-fabric-1.20.1-1.0.9.jar",
             "MD5": "5f99b50f797beda4982aacf57e6f8d6a",
             "path": "chidoriorigins-fabric-1.20.1-1.0.9.jar"
+          }
+        },
+        {
+          "id": "Chunky-1.3.146.jar",
+          "name": "Chunky-1.3.146.jar",
+          "type": "File",
+          "artifact": {
+            "size": 344004,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/Chunky-1.3.146.jar",
+            "MD5": "b1e31424db96ae83246efd0390598e01",
+            "path": "Chunky-1.3.146.jar"
           }
         },
         {
@@ -440,6 +462,17 @@
           }
         },
         {
+          "id": "dcintegration-fabric-3.0.7-1.20.1.jar",
+          "name": "dcintegration-fabric-3.0.7-1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 15140101,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/dcintegration-fabric-3.0.7-1.20.1.jar",
+            "MD5": "93a372e15c4cf98d3c07dca9bbf63680",
+            "path": "dcintegration-fabric-3.0.7-1.20.1.jar"
+          }
+        },
+        {
           "id": "digs_dnd_origins-1.20.1-0.0.11.jar",
           "name": "digs_dnd_origins-1.20.1-0.0.11.jar",
           "type": "File",
@@ -473,14 +506,14 @@
           }
         },
         {
-          "id": "fabric-api-0.92.2+1.20.1.jar",
-          "name": "fabric-api-0.92.2+1.20.1.jar",
+          "id": "entityculling-fabric-1.7.0-mc1.20.1.jar",
+          "name": "entityculling-fabric-1.7.0-mc1.20.1.jar",
           "type": "File",
           "artifact": {
-            "size": 2107289,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/fabric-api-0.92.2+1.20.1.jar",
-            "MD5": "92c58961866741106aae126558c9d4a7",
-            "path": "fabric-api-0.92.2+1.20.1.jar"
+            "size": 66855,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/entityculling-fabric-1.7.0-mc1.20.1.jar",
+            "MD5": "45aeb0829ae8335d26251fe32dbd5d10",
+            "path": "entityculling-fabric-1.7.0-mc1.20.1.jar"
           }
         },
         {
@@ -492,6 +525,17 @@
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/fabric-carpet-1.20-1.4.112+v230608.jar",
             "MD5": "c063aeffa6b6b95092a98917d2df53b8",
             "path": "fabric-carpet-1.20-1.4.112+v230608.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar",
+          "name": "fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar",
+          "type": "File",
+          "artifact": {
+            "size": 7168829,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar",
+            "MD5": "c560be9832c6287f9dfba9ae5811fac3",
+            "path": "fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar"
           }
         },
         {
@@ -613,6 +657,17 @@
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/indium-1.0.34+mc1.20.1.jar",
             "MD5": "91f3ce08edec42ee8f6b45fd6ae0c8b3",
             "path": "indium-1.0.34+mc1.20.1.jar"
+          }
+        },
+        {
+          "id": "InvView-1.4.12-1.20+.jar",
+          "name": "InvView-1.4.12-1.20+.jar",
+          "type": "File",
+          "artifact": {
+            "size": 159796,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/InvView-1.4.12-1.20+.jar",
+            "MD5": "9692ab9be524fa5b9dd595c4fe16132c",
+            "path": "InvView-1.4.12-1.20+.jar"
           }
         },
         {
@@ -811,6 +866,17 @@
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mobs_of_mythology-fabric-1.20.1-2.0.2.jar",
             "MD5": "fd0164638be63be7f7658dba089161f4",
             "path": "mobs_of_mythology-fabric-1.20.1-2.0.2.jar"
+          }
+        },
+        {
+          "id": "modernfix-fabric-5.19.4+mc1.20.1.jar",
+          "name": "modernfix-fabric-5.19.4+mc1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 648404,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/modernfix-fabric-5.19.4+mc1.20.1.jar",
+            "MD5": "dff72c3026cd2b8003ddeb16790bb47d",
+            "path": "modernfix-fabric-5.19.4+mc1.20.1.jar"
           }
         },
         {
@@ -1111,6 +1177,17 @@
           }
         },
         {
+          "id": "servercore-fabric-1.5.1+1.20.1.jar",
+          "name": "servercore-fabric-1.5.1+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 815391,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/servercore-fabric-1.5.1+1.20.1.jar",
+            "MD5": "83f90f1b81b4bca50966e842c43b7ff5",
+            "path": "servercore-fabric-1.5.1+1.20.1.jar"
+          }
+        },
+        {
           "id": "simplyswords-1.56.0-1.20.1.jar",
           "name": "simplyswords-1.56.0-1.20.1.jar",
           "type": "File",
@@ -1119,17 +1196,6 @@
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/simplyswords-1.56.0-1.20.1.jar",
             "MD5": "307f190b49947ace559334609eb66634",
             "path": "simplyswords-1.56.0-1.20.1.jar"
-          }
-        },
-        {
-          "id": "sit-1.20.1-27.jar",
-          "name": "sit-1.20.1-27.jar",
-          "type": "File",
-          "artifact": {
-            "size": 64238,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/sit-1.20.1-27.jar",
-            "MD5": "cb59bea8fdbd7a6f17108b83f4570365",
-            "path": "sit-1.20.1-27.jar"
           }
         },
         {
@@ -1155,6 +1221,39 @@
           }
         },
         {
+          "id": "spark-1.10.53-fabric.jar",
+          "name": "spark-1.10.53-fabric.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3082974,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/spark-1.10.53-fabric.jar",
+            "MD5": "d590c2c10bb832130029c37d1bdd6bf9",
+            "path": "spark-1.10.53-fabric.jar"
+          }
+        },
+        {
+          "id": "starlight-1.1.2+fabric.dbc156f.jar",
+          "name": "starlight-1.1.2+fabric.dbc156f.jar",
+          "type": "File",
+          "artifact": {
+            "size": 127368,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/starlight-1.1.2+fabric.dbc156f.jar",
+            "MD5": "a0b391bf55891502c2074bd078bb5899",
+            "path": "starlight-1.1.2+fabric.dbc156f.jar"
+          }
+        },
+        {
+          "id": "styledplayerlist-3.1.1+1.20.1.jar",
+          "name": "styledplayerlist-3.1.1+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 251671,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/styledplayerlist-3.1.1+1.20.1.jar",
+            "MD5": "20b23bce17bca67c18a0c86457c4ddb2",
+            "path": "styledplayerlist-3.1.1+1.20.1.jar"
+          }
+        },
+        {
           "id": "supplementaries-1.20-2.8.17-fabric.jar",
           "name": "supplementaries-1.20-2.8.17-fabric.jar",
           "type": "File",
@@ -1163,6 +1262,17 @@
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/supplementaries-1.20-2.8.17-fabric.jar",
             "MD5": "824e26c7e29fc39363cb5c35699856e6",
             "path": "supplementaries-1.20-2.8.17-fabric.jar"
+          }
+        },
+        {
+          "id": "tabtps-fabric-mc1.20.1-1.3.18.jar",
+          "name": "tabtps-fabric-mc1.20.1-1.3.18.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2187301,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/tabtps-fabric-mc1.20.1-1.3.18.jar",
+            "MD5": "5939d70e1e37366c8cc78f905e5d59e1",
+            "path": "tabtps-fabric-mc1.20.1-1.3.18.jar"
           }
         },
         {
@@ -1196,6 +1306,39 @@
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/walkers-5.2.jar",
             "MD5": "bab04ef9675121012faf052f08b76cf0",
             "path": "walkers-5.2.jar"
+          }
+        },
+        {
+          "id": "XaerosWorldMap_1.39.0_Fabric_1.20.jar",
+          "name": "XaerosWorldMap_1.39.0_Fabric_1.20.jar",
+          "type": "File",
+          "artifact": {
+            "size": 948816,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/XaerosWorldMap_1.39.0_Fabric_1.20.jar",
+            "MD5": "10fc5fdbf7640474d6e718873d77218a",
+            "path": "XaerosWorldMap_1.39.0_Fabric_1.20.jar"
+          }
+        },
+        {
+          "id": "Xaeros_Minimap_24.4.0_Fabric_1.20.jar",
+          "name": "Xaeros_Minimap_24.4.0_Fabric_1.20.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1561763,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/Xaeros_Minimap_24.4.0_Fabric_1.20.jar",
+            "MD5": "ed21ef60e289f7354c8febfff321cab6",
+            "path": "Xaeros_Minimap_24.4.0_Fabric_1.20.jar"
+          }
+        },
+        {
+          "id": "xlpackets-1.0.4-1.20.x.jar",
+          "name": "xlpackets-1.0.4-1.20.x.jar",
+          "type": "File",
+          "artifact": {
+            "size": 10386,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/xlpackets-1.0.4-1.20.x.jar",
+            "MD5": "783fd42e06b44e0ae45708152c7bc4d6",
+            "path": "xlpackets-1.0.4-1.20.x.jar"
           }
         },
         {
