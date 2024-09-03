@@ -3,7 +3,7 @@
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1234084478197039185",
-    "smallImageText": ",
+    "smallImageText": "",
     "smallImageKey": "logorb"
   },
   "servers": [
