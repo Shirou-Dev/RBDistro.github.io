@@ -996,6 +996,16 @@
           }
         },
         {
+          "id": "SmartBrainLib-fabric-1.20.1-1.15.jar",
+          "name": "SmartBrainLib-fabric-1.20.1-1.15.jar",
+          "type": "File",
+          "artifact": {
+            "size": 359760,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/SmartBrainLib-fabric-1.20.1-1.15.jar",
+            "path": "mods/SmartBrainLib-fabric-1.20.1-1.15.jar"
+          }
+        },
+        {
           "id": "soulslike-weaponry-1.1.4.2-1.20.1-fabric.jar",
           "name": "soulslike-weaponry-1.1.4.2-1.20.1-fabric.jar",
           "type": "File",
