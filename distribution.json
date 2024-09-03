@@ -3,7 +3,7 @@
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1234084478197039185",
-    "smallImageText": "",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageKey": "logorb"
   },
   "servers": [
@@ -16,9 +16,9 @@
       "address": "rebootproject-smp.online",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "",
-        "largeImageText": "",
-        "largeImageKey": ""
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": true,
       "autoconnect": false,
@@ -123,6 +123,16 @@
             "size": 2107289,
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/fabricmods/required/fabric-api-0.92.2+1.20.1.jar",
             "MD5": "92c58961866741106aae126558c9d4a7"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.12.1+kotlin.2.0.20@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7168829,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/fabricmods/required/fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar",
+            "MD5": "c560be9832c6287f9dfba9ae5811fac3"
           }
         },
         {
@@ -953,6 +963,16 @@
             "size": 269187,
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Schwarz%20Origin%20Update.jar",
             "path": "mods/Schwarz Origin Update.jar"
+          }
+        },
+        {
+          "id": "servercore-fabric-1.5.1+1.20.1.jar",
+          "name": "servercore-fabric-1.5.1+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 815391,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/servercore-fabric-1.5.1+1.20.1.jar",
+            "path": "mods/servercore-fabric-1.5.1+1.20.1.jar"
           }
         },
         {

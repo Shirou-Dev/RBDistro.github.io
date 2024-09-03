@@ -5,7 +5,7 @@
     "name": "RB-PJ-SS2 (Minecraft 1.20.1)",
     "description": "RB-PJ-SS2 Running Minecraft 1.20.1 (Fabric v0.16.3)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "address": "rebootproject-smp.online",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
