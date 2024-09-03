@@ -2,8 +2,8 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "1234084478197039185",
-    "smallImageText": "",
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageKey": "logorb"
   },
   "servers": [
@@ -13,14 +13,14 @@
       "description": "RB-PJ-SS2 Running Minecraft 1.20.1 (Fabric v0.16.3)",
       "icon": null,
       "version": "1.0.0",
-      "address": "rebootproject-smp.online",
+      "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "",
-        "largeImageText": "",
-        "largeImageKey": ""
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
@@ -181,9 +181,9 @@
           "type": "File",
           "artifact": {
             "size": 256944,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/alloy-forgery-2.1.2+1.20.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/alloy-forgery-2.1.2+1.20.jar",
             "MD5": "45efb161d10bf008eeacb16cd5d6469d",
-            "path": "alloy-forgery-2.1.2+1.20.jar"
+            "path": "mods/alloy-forgery-2.1.2+1.20.jar"
           }
         },
         {
@@ -192,9 +192,9 @@
           "type": "File",
           "artifact": {
             "size": 21228,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/AltOriginGui-fabric-1.20.1-1.1.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/AltOriginGui-fabric-1.20.1-1.1.1.jar",
             "MD5": "9694ceea55c76c6fa3b90baf15993af9",
-            "path": "AltOriginGui-fabric-1.20.1-1.1.1.jar"
+            "path": "mods/AltOriginGui-fabric-1.20.1-1.1.1.jar"
           }
         },
         {
@@ -203,9 +203,9 @@
           "type": "File",
           "artifact": {
             "size": 984051,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/amendments-1.20-1.2.8.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/amendments-1.20-1.2.8.jar",
             "MD5": "c98e1c773a107255b48b90b6107f41b1",
-            "path": "amendments-1.20-1.2.8.jar"
+            "path": "mods/amendments-1.20-1.2.8.jar"
           }
         },
         {
@@ -214,9 +214,9 @@
           "type": "File",
           "artifact": {
             "size": 2733280,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/another_furniture-fabric-1.20.1-3.0.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/another_furniture-fabric-1.20.1-3.0.1.jar",
             "MD5": "ad7757e3ad83a5a789cdf5932d9a20f9",
-            "path": "another_furniture-fabric-1.20.1-3.0.1.jar"
+            "path": "mods/another_furniture-fabric-1.20.1-3.0.1.jar"
           }
         },
         {
@@ -225,9 +225,9 @@
           "type": "File",
           "artifact": {
             "size": 2582470,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/antique-atlas-2.9.0+1.20.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/antique-atlas-2.9.0+1.20.jar",
             "MD5": "35177d86b955c889bda819a859b38537",
-            "path": "antique-atlas-2.9.0+1.20.jar"
+            "path": "mods/antique-atlas-2.9.0+1.20.jar"
           }
         },
         {
@@ -236,9 +236,9 @@
           "type": "File",
           "artifact": {
             "size": 1064362,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/appleskin-fabric-mc1.20.1-2.5.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/appleskin-fabric-mc1.20.1-2.5.1.jar",
             "MD5": "723370be246a876144ae424cbbfd60f4",
-            "path": "appleskin-fabric-mc1.20.1-2.5.1.jar"
+            "path": "mods/appleskin-fabric-mc1.20.1-2.5.1.jar"
           }
         },
         {
@@ -247,9 +247,9 @@
           "type": "File",
           "artifact": {
             "size": 585207,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/architectury-9.2.14-fabric.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/architectury-9.2.14-fabric.jar",
             "MD5": "2ae04e0dad60a390031ee341e0b2ab45",
-            "path": "architectury-9.2.14-fabric.jar"
+            "path": "mods/architectury-9.2.14-fabric.jar"
           }
         },
         {
@@ -258,9 +258,9 @@
           "type": "File",
           "artifact": {
             "size": 17975,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/AttributeFix-Fabric-1.20.1-21.0.4.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/AttributeFix-Fabric-1.20.1-21.0.4.jar",
             "MD5": "2ffa44ca36e0c954a9ba9e0d90adf740",
-            "path": "AttributeFix-Fabric-1.20.1-21.0.4.jar"
+            "path": "mods/AttributeFix-Fabric-1.20.1-21.0.4.jar"
           }
         },
         {
@@ -269,9 +269,9 @@
           "type": "File",
           "artifact": {
             "size": 792162,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/azurelib-fabric-1.20.1-2.0.30.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/azurelib-fabric-1.20.1-2.0.30.jar",
             "MD5": "a3c826f49677d77ff6e51e014e872e51",
-            "path": "azurelib-fabric-1.20.1-2.0.30.jar"
+            "path": "mods/azurelib-fabric-1.20.1-2.0.30.jar"
           }
         },
         {
@@ -280,9 +280,9 @@
           "type": "File",
           "artifact": {
             "size": 406970,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/balm-fabric-1.20.1-7.3.4.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/balm-fabric-1.20.1-7.3.4.jar",
             "MD5": "274377add266c51056728d1b327bff6a",
-            "path": "balm-fabric-1.20.1-7.3.4.jar"
+            "path": "mods/balm-fabric-1.20.1-7.3.4.jar"
           }
         },
         {
@@ -291,9 +291,9 @@
           "type": "File",
           "artifact": {
             "size": 902833,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/bettercombat-fabric-1.8.6+1.20.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/bettercombat-fabric-1.8.6+1.20.1.jar",
             "MD5": "8d474709e691da55e5d3bd6169184dbc",
-            "path": "bettercombat-fabric-1.8.6+1.20.1.jar"
+            "path": "mods/bettercombat-fabric-1.8.6+1.20.1.jar"
           }
         },
         {
@@ -302,9 +302,9 @@
           "type": "File",
           "artifact": {
             "size": 1424654,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/c2me-fabric-mc1.20.1-0.2.0+alpha.11.13.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.13.jar",
             "MD5": "d11d3e2566c8ef1aee6fddd52d62932e",
-            "path": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.13.jar"
+            "path": "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.13.jar"
           }
         },
         {
@@ -313,9 +313,9 @@
           "type": "File",
           "artifact": {
             "size": 630264,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/carpet-fixes-1.20-1.16.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/carpet-fixes-1.20-1.16.1.jar",
             "MD5": "0dd9217f7618919fce49186fbc3865a2",
-            "path": "carpet-fixes-1.20-1.16.1.jar"
+            "path": "mods/carpet-fixes-1.20-1.16.1.jar"
           }
         },
         {
@@ -324,9 +324,9 @@
           "type": "File",
           "artifact": {
             "size": 443033,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/carryon-fabric-1.20.1-2.1.2.7.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/carryon-fabric-1.20.1-2.1.2.7.jar",
             "MD5": "c050f3d0934bbd8893fe2353eab906bb",
-            "path": "carryon-fabric-1.20.1-2.1.2.7.jar"
+            "path": "mods/carryon-fabric-1.20.1-2.1.2.7.jar"
           }
         },
         {
@@ -335,9 +335,9 @@
           "type": "File",
           "artifact": {
             "size": 62988,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/chat_heads-0.12.13-fabric-1.20.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/chat_heads-0.12.13-fabric-1.20.jar",
             "MD5": "18d321b9bf1cce0bfb6257674dab690b",
-            "path": "chat_heads-0.12.13-fabric-1.20.jar"
+            "path": "mods/chat_heads-0.12.13-fabric-1.20.jar"
           }
         },
         {
@@ -346,9 +346,9 @@
           "type": "File",
           "artifact": {
             "size": 43865,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/chidoriorigins-fabric-1.20.1-1.0.9.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/chidoriorigins-fabric-1.20.1-1.0.9.jar",
             "MD5": "5f99b50f797beda4982aacf57e6f8d6a",
-            "path": "chidoriorigins-fabric-1.20.1-1.0.9.jar"
+            "path": "mods/chidoriorigins-fabric-1.20.1-1.0.9.jar"
           }
         },
         {
@@ -357,9 +357,9 @@
           "type": "File",
           "artifact": {
             "size": 344004,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/Chunky-1.3.146.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Chunky-1.3.146.jar",
             "MD5": "b1e31424db96ae83246efd0390598e01",
-            "path": "Chunky-1.3.146.jar"
+            "path": "mods/Chunky-1.3.146.jar"
           }
         },
         {
@@ -368,9 +368,9 @@
           "type": "File",
           "artifact": {
             "size": 1159192,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/cloth-config-11.1.118-fabric.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/cloth-config-11.1.118-fabric.jar",
             "MD5": "eb13a834db10ee7e8c5e6a6d4b037fbd",
-            "path": "cloth-config-11.1.118-fabric.jar"
+            "path": "mods/cloth-config-11.1.118-fabric.jar"
           }
         },
         {
@@ -379,9 +379,9 @@
           "type": "File",
           "artifact": {
             "size": 21987,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/Clumps-fabric-1.20.1-12.0.0.4.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Clumps-fabric-1.20.1-12.0.0.4.jar",
             "MD5": "9bd27566262e06642637b78a6bc4fe8c",
-            "path": "Clumps-fabric-1.20.1-12.0.0.4.jar"
+            "path": "mods/Clumps-fabric-1.20.1-12.0.0.4.jar"
           }
         },
         {
@@ -390,9 +390,9 @@
           "type": "File",
           "artifact": {
             "size": 693624,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/comforts-fabric-6.4.0+1.20.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/comforts-fabric-6.4.0+1.20.1.jar",
             "MD5": "681a5788b12195e5b2243947203c701e",
-            "path": "comforts-fabric-6.4.0+1.20.1.jar"
+            "path": "mods/comforts-fabric-6.4.0+1.20.1.jar"
           }
         },
         {
@@ -401,9 +401,9 @@
           "type": "File",
           "artifact": {
             "size": 21748,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/common-networking-fabric-1.0.5-1.20.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/common-networking-fabric-1.0.5-1.20.1.jar",
             "MD5": "6bc657e7099a49e44a4aaa062354943e",
-            "path": "common-networking-fabric-1.0.5-1.20.1.jar"
+            "path": "mods/common-networking-fabric-1.0.5-1.20.1.jar"
           }
         },
         {
@@ -412,9 +412,9 @@
           "type": "File",
           "artifact": {
             "size": 591886,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/configured-fabric-1.20.1-2.2.3.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/configured-fabric-1.20.1-2.2.3.jar",
             "MD5": "04b8682e530bb58a8514f9763331662d",
-            "path": "configured-fabric-1.20.1-2.2.3.jar"
+            "path": "mods/configured-fabric-1.20.1-2.2.3.jar"
           }
         },
         {
@@ -423,9 +423,9 @@
           "type": "File",
           "artifact": {
             "size": 321042,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/craftedcore-5.5.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/craftedcore-5.5.jar",
             "MD5": "a5c960539f0afd454535f5677020036d",
-            "path": "craftedcore-5.5.jar"
+            "path": "mods/craftedcore-5.5.jar"
           }
         },
         {
@@ -434,9 +434,9 @@
           "type": "File",
           "artifact": {
             "size": 21952417,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/create-fabric-0.5.1-f-build.1417+mc1.20.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/create-fabric-0.5.1-f-build.1417+mc1.20.1.jar",
             "MD5": "a9ecc9268b3b7c7e56f794cf4a27007c",
-            "path": "create-fabric-0.5.1-f-build.1417+mc1.20.1.jar"
+            "path": "mods/create-fabric-0.5.1-f-build.1417+mc1.20.1.jar"
           }
         },
         {
@@ -445,9 +445,9 @@
           "type": "File",
           "artifact": {
             "size": 3971046,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/createdeco-2.0.2-1.20.1-fabric.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/createdeco-2.0.2-1.20.1-fabric.jar",
             "MD5": "5898cfdf230cf101a01128662a1d11b3",
-            "path": "createdeco-2.0.2-1.20.1-fabric.jar"
+            "path": "mods/createdeco-2.0.2-1.20.1-fabric.jar"
           }
         },
         {
@@ -456,9 +456,9 @@
           "type": "File",
           "artifact": {
             "size": 11810,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/create_lt-1.0.1-fabric-mc1.20.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/create_lt-1.0.1-fabric-mc1.20.1.jar",
             "MD5": "8a1897c90a5549c0714a76ee3b4d051d",
-            "path": "create_lt-1.0.1-fabric-mc1.20.1.jar"
+            "path": "mods/create_lt-1.0.1-fabric-mc1.20.1.jar"
           }
         },
         {
@@ -467,9 +467,9 @@
           "type": "File",
           "artifact": {
             "size": 15140101,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/dcintegration-fabric-3.0.7-1.20.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/dcintegration-fabric-3.0.7-1.20.1.jar",
             "MD5": "93a372e15c4cf98d3c07dca9bbf63680",
-            "path": "dcintegration-fabric-3.0.7-1.20.1.jar"
+            "path": "mods/dcintegration-fabric-3.0.7-1.20.1.jar"
           }
         },
         {
@@ -478,9 +478,9 @@
           "type": "File",
           "artifact": {
             "size": 404656,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/digs_dnd_origins-1.20.1-0.0.11.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/digs_dnd_origins-1.20.1-0.0.11.jar",
             "MD5": "35c390846d88ff02e43132e1e4964f41",
-            "path": "digs_dnd_origins-1.20.1-0.0.11.jar"
+            "path": "mods/digs_dnd_origins-1.20.1-0.0.11.jar"
           }
         },
         {
@@ -489,9 +489,9 @@
           "type": "File",
           "artifact": {
             "size": 12673902,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/DramaticDoors-QuiFabrge-1.20.1-3.2.5.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/DramaticDoors-QuiFabrge-1.20.1-3.2.5.jar",
             "MD5": "f68b87f10dbc8318232864d4a5295ab8",
-            "path": "DramaticDoors-QuiFabrge-1.20.1-3.2.5.jar"
+            "path": "mods/DramaticDoors-QuiFabrge-1.20.1-3.2.5.jar"
           }
         },
         {
@@ -500,9 +500,9 @@
           "type": "File",
           "artifact": {
             "size": 873611,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
             "MD5": "3a7abdac2462955c5a51af3cd14712ff",
-            "path": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar"
+            "path": "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar"
           }
         },
         {
@@ -511,9 +511,9 @@
           "type": "File",
           "artifact": {
             "size": 66855,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/entityculling-fabric-1.7.0-mc1.20.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/entityculling-fabric-1.7.0-mc1.20.1.jar",
             "MD5": "45aeb0829ae8335d26251fe32dbd5d10",
-            "path": "entityculling-fabric-1.7.0-mc1.20.1.jar"
+            "path": "mods/entityculling-fabric-1.7.0-mc1.20.1.jar"
           }
         },
         {
@@ -522,9 +522,9 @@
           "type": "File",
           "artifact": {
             "size": 1577482,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/fabric-carpet-1.20-1.4.112+v230608.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/fabric-carpet-1.20-1.4.112+v230608.jar",
             "MD5": "c063aeffa6b6b95092a98917d2df53b8",
-            "path": "fabric-carpet-1.20-1.4.112+v230608.jar"
+            "path": "mods/fabric-carpet-1.20-1.4.112+v230608.jar"
           }
         },
         {
@@ -533,9 +533,9 @@
           "type": "File",
           "artifact": {
             "size": 7168829,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar",
             "MD5": "c560be9832c6287f9dfba9ae5811fac3",
-            "path": "fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar"
+            "path": "mods/fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar"
           }
         },
         {
@@ -544,9 +544,9 @@
           "type": "File",
           "artifact": {
             "size": 428398,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/fabric-seasons-2.3+1.20.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/fabric-seasons-2.3+1.20.jar",
             "MD5": "d504c1cc6905f29ee01309734699f066",
-            "path": "fabric-seasons-2.3+1.20.jar"
+            "path": "mods/fabric-seasons-2.3+1.20.jar"
           }
         },
         {
@@ -555,9 +555,9 @@
           "type": "File",
           "artifact": {
             "size": 112497,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/fabrictailor-2.1.2.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/fabrictailor-2.1.2.jar",
             "MD5": "9c3575bb3fa1e7188a07a1d7eab7a048",
-            "path": "fabrictailor-2.1.2.jar"
+            "path": "mods/fabrictailor-2.1.2.jar"
           }
         },
         {
@@ -566,9 +566,9 @@
           "type": "File",
           "artifact": {
             "size": 2686178,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/fancymenu_fabric_3.2.3_MC_1.20.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/fancymenu_fabric_3.2.3_MC_1.20.1.jar",
             "MD5": "4a23f783f6d3e9b3a44fcd7f24ed4eea",
-            "path": "fancymenu_fabric_3.2.3_MC_1.20.1.jar"
+            "path": "mods/fancymenu_fabric_3.2.3_MC_1.20.1.jar"
           }
         },
         {
@@ -577,9 +577,9 @@
           "type": "File",
           "artifact": {
             "size": 2718948,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/farmers-delight-fabric-1.4.3.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/farmers-delight-fabric-1.4.3.jar",
             "MD5": "dfcfdea62c47c8af60b5a72ce205b75c",
-            "path": "farmers-delight-fabric-1.4.3.jar"
+            "path": "mods/farmers-delight-fabric-1.4.3.jar"
           }
         },
         {
@@ -588,9 +588,9 @@
           "type": "File",
           "artifact": {
             "size": 2313608,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/figura-0.1.4+1.20.1-fabric-mc.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/figura-0.1.4+1.20.1-fabric-mc.jar",
             "MD5": "f4a65db9c13a6c53fecb4ab2d0ad10df",
-            "path": "figura-0.1.4+1.20.1-fabric-mc.jar"
+            "path": "mods/figura-0.1.4+1.20.1-fabric-mc.jar"
           }
         },
         {
@@ -599,9 +599,9 @@
           "type": "File",
           "artifact": {
             "size": 397198,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar",
             "MD5": "9b680a583230400e887dc545aa974936",
-            "path": "ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar"
+            "path": "mods/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar"
           }
         },
         {
@@ -610,9 +610,9 @@
           "type": "File",
           "artifact": {
             "size": 1019731,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/geckolib-fabric-1.20.1-4.4.9.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/geckolib-fabric-1.20.1-4.4.9.jar",
             "MD5": "43283e490633976f9e2b46c473a87b62",
-            "path": "geckolib-fabric-1.20.1-4.4.9.jar"
+            "path": "mods/geckolib-fabric-1.20.1-4.4.9.jar"
           }
         },
         {
@@ -621,9 +621,9 @@
           "type": "File",
           "artifact": {
             "size": 219743,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/hardcorerevival-fabric-1.20.1-12.0.4.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/hardcorerevival-fabric-1.20.1-12.0.4.jar",
             "MD5": "031187161e7cb7dcddbf0d0efa340ded",
-            "path": "hardcorerevival-fabric-1.20.1-12.0.4.jar"
+            "path": "mods/hardcorerevival-fabric-1.20.1-12.0.4.jar"
           }
         },
         {
@@ -632,9 +632,9 @@
           "type": "File",
           "artifact": {
             "size": 1406373,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/hdskins-6.10.2+1.20%20(2).jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/hdskins-6.10.2+1.20%20(2).jar",
             "MD5": "83a9af291356c8c04671b2801446a1ea",
-            "path": "hdskins-6.10.2+1.20 (2).jar"
+            "path": "mods/hdskins-6.10.2+1.20 (2).jar"
           }
         },
         {
@@ -643,9 +643,9 @@
           "type": "File",
           "artifact": {
             "size": 187027,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/Icarus-Fabric-2.9.2.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Icarus-Fabric-2.9.2.jar",
             "MD5": "a6710b58c9983b4ae26bd7cd1c0e5d9d",
-            "path": "Icarus-Fabric-2.9.2.jar"
+            "path": "mods/Icarus-Fabric-2.9.2.jar"
           }
         },
         {
@@ -654,9 +654,9 @@
           "type": "File",
           "artifact": {
             "size": 105359,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/indium-1.0.34+mc1.20.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/indium-1.0.34+mc1.20.1.jar",
             "MD5": "91f3ce08edec42ee8f6b45fd6ae0c8b3",
-            "path": "indium-1.0.34+mc1.20.1.jar"
+            "path": "mods/indium-1.0.34+mc1.20.1.jar"
           }
         },
         {
@@ -665,9 +665,9 @@
           "type": "File",
           "artifact": {
             "size": 159796,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/InvView-1.4.12-1.20+.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/InvView-1.4.12-1.20+.jar",
             "MD5": "9692ab9be524fa5b9dd595c4fe16132c",
-            "path": "InvView-1.4.12-1.20+.jar"
+            "path": "mods/InvView-1.4.12-1.20+.jar"
           }
         },
         {
@@ -676,9 +676,9 @@
           "type": "File",
           "artifact": {
             "size": 1408147,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/jei-1.20.1-fabric-15.17.0.74.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/jei-1.20.1-fabric-15.17.0.74.jar",
             "MD5": "3b2e87a6dcc13d35b6824a86f72884c3",
-            "path": "jei-1.20.1-fabric-15.17.0.74.jar"
+            "path": "mods/jei-1.20.1-fabric-15.17.0.74.jar"
           }
         },
         {
@@ -687,9 +687,9 @@
           "type": "File",
           "artifact": {
             "size": 892067,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
             "MD5": "a816ca0f5272f0e60c745f7fe6bef1d6",
-            "path": "konkrete_fabric_1.8.1_MC_1.20.1.jar"
+            "path": "mods/konkrete_fabric_1.8.1_MC_1.20.1.jar"
           }
         },
         {
@@ -698,9 +698,9 @@
           "type": "File",
           "artifact": {
             "size": 1702813,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/letsdo-API-fabric-1.2.15-fabric.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/letsdo-API-fabric-1.2.15-fabric.jar",
             "MD5": "572b3414c6e93d6679f6e89a2ae49995",
-            "path": "letsdo-API-fabric-1.2.15-fabric.jar"
+            "path": "mods/letsdo-API-fabric-1.2.15-fabric.jar"
           }
         },
         {
@@ -709,9 +709,9 @@
           "type": "File",
           "artifact": {
             "size": 2211492,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/letsdo-brewery-fabric-1.1.9.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/letsdo-brewery-fabric-1.1.9.jar",
             "MD5": "d11b4819794294d94d651c59800159c4",
-            "path": "letsdo-brewery-fabric-1.1.9.jar"
+            "path": "mods/letsdo-brewery-fabric-1.1.9.jar"
           }
         },
         {
@@ -720,9 +720,9 @@
           "type": "File",
           "artifact": {
             "size": 2645493,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/letsdo-meadow-fabric-1.3.19.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/letsdo-meadow-fabric-1.3.19.jar",
             "MD5": "b99a28ee1e968b5d7676b18b9f6ce432",
-            "path": "letsdo-meadow-fabric-1.3.19.jar"
+            "path": "mods/letsdo-meadow-fabric-1.3.19.jar"
           }
         },
         {
@@ -731,9 +731,9 @@
           "type": "File",
           "artifact": {
             "size": 3051912,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/letsdo-vinery-fabric-1.4.28.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/letsdo-vinery-fabric-1.4.28.jar",
             "MD5": "b451db7760907dd4c99883319695fefe",
-            "path": "letsdo-vinery-fabric-1.4.28.jar"
+            "path": "mods/letsdo-vinery-fabric-1.4.28.jar"
           }
         },
         {
@@ -742,9 +742,9 @@
           "type": "File",
           "artifact": {
             "size": 909971,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/litematica-fabric-1.20.1-0.15.3.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/litematica-fabric-1.20.1-0.15.3.jar",
             "MD5": "8bbaa656f0227dda5a5e8788b910366c",
-            "path": "litematica-fabric-1.20.1-0.15.3.jar"
+            "path": "mods/litematica-fabric-1.20.1-0.15.3.jar"
           }
         },
         {
@@ -753,9 +753,9 @@
           "type": "File",
           "artifact": {
             "size": 645865,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/lithium-fabric-mc1.20.1-0.11.2.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/lithium-fabric-mc1.20.1-0.11.2.jar",
             "MD5": "026ca4110d57f16f701b400ad5d2ca26",
-            "path": "lithium-fabric-mc1.20.1-0.11.2.jar"
+            "path": "mods/lithium-fabric-mc1.20.1-0.11.2.jar"
           }
         },
         {
@@ -764,9 +764,9 @@
           "type": "File",
           "artifact": {
             "size": 176561,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/magic_origins_1.4.0.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/magic_origins_1.4.0.1.jar",
             "MD5": "2cad7da730e46dab5dcd7663c003ce14",
-            "path": "magic_origins_1.4.0.1.jar"
+            "path": "mods/magic_origins_1.4.0.1.jar"
           }
         },
         {
@@ -775,9 +775,9 @@
           "type": "File",
           "artifact": {
             "size": 545403,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/malilib-fabric-1.20.1-0.16.3.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/malilib-fabric-1.20.1-0.16.3.jar",
             "MD5": "007a02b4cbca762018d2a56237d36631",
-            "path": "malilib-fabric-1.20.1-0.16.3.jar"
+            "path": "mods/malilib-fabric-1.20.1-0.16.3.jar"
           }
         },
         {
@@ -786,9 +786,9 @@
           "type": "File",
           "artifact": {
             "size": 1494390,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mcdw-9.0.4.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/mcdw-9.0.4.jar",
             "MD5": "b742ab330bda348d62ae48083e46d1c2",
-            "path": "mcdw-9.0.4.jar"
+            "path": "mods/mcdw-9.0.4.jar"
           }
         },
         {
@@ -797,9 +797,9 @@
           "type": "File",
           "artifact": {
             "size": 768682,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mcw-bridges-3.0.0-mc1.20.1fabric.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/mcw-bridges-3.0.0-mc1.20.1fabric.jar",
             "MD5": "b1c94aad7aa496b92d712a375baa17b5",
-            "path": "mcw-bridges-3.0.0-mc1.20.1fabric.jar"
+            "path": "mods/mcw-bridges-3.0.0-mc1.20.1fabric.jar"
           }
         },
         {
@@ -808,9 +808,9 @@
           "type": "File",
           "artifact": {
             "size": 1910842,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mcw-furniture-3.3.0-mc1.20.1fabric.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/mcw-furniture-3.3.0-mc1.20.1fabric.jar",
             "MD5": "bf6626032fe412d93406d3bcdeee7963",
-            "path": "mcw-furniture-3.3.0-mc1.20.1fabric.jar"
+            "path": "mods/mcw-furniture-3.3.0-mc1.20.1fabric.jar"
           }
         },
         {
@@ -819,9 +819,9 @@
           "type": "File",
           "artifact": {
             "size": 39696,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
             "MD5": "8095b46d324586b3cf3d2f5bffe8b417",
-            "path": "melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
+            "path": "mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
           }
         },
         {
@@ -830,9 +830,9 @@
           "type": "File",
           "artifact": {
             "size": 49334,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/memoryleakfix-fabric-1.17+-1.1.5.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/memoryleakfix-fabric-1.17+-1.1.5.jar",
             "MD5": "a8461f89d267441752c95beb5448e940",
-            "path": "memoryleakfix-fabric-1.17+-1.1.5.jar"
+            "path": "mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
           }
         },
         {
@@ -841,9 +841,9 @@
           "type": "File",
           "artifact": {
             "size": 57229,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/midnightlib-fabric-1.4.1.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/midnightlib-fabric-1.4.1.1.jar",
             "MD5": "2c178ef9cc3eb44e3e39df1ce7d1da71",
-            "path": "midnightlib-fabric-1.4.1.1.jar"
+            "path": "mods/midnightlib-fabric-1.4.1.1.jar"
           }
         },
         {
@@ -852,9 +852,9 @@
           "type": "File",
           "artifact": {
             "size": 4848351,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/minecells-1.8.3.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/minecells-1.8.3.jar",
             "MD5": "40ba5f50ef2023430fd642c8f13f1f97",
-            "path": "minecells-1.8.3.jar"
+            "path": "mods/minecells-1.8.3.jar"
           }
         },
         {
@@ -863,9 +863,9 @@
           "type": "File",
           "artifact": {
             "size": 1009770,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mobs_of_mythology-fabric-1.20.1-2.0.2.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/mobs_of_mythology-fabric-1.20.1-2.0.2.jar",
             "MD5": "fd0164638be63be7f7658dba089161f4",
-            "path": "mobs_of_mythology-fabric-1.20.1-2.0.2.jar"
+            "path": "mods/mobs_of_mythology-fabric-1.20.1-2.0.2.jar"
           }
         },
         {
@@ -874,9 +874,9 @@
           "type": "File",
           "artifact": {
             "size": 648404,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/modernfix-fabric-5.19.4+mc1.20.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/modernfix-fabric-5.19.4+mc1.20.1.jar",
             "MD5": "dff72c3026cd2b8003ddeb16790bb47d",
-            "path": "modernfix-fabric-5.19.4+mc1.20.1.jar"
+            "path": "mods/modernfix-fabric-5.19.4+mc1.20.1.jar"
           }
         },
         {
@@ -885,9 +885,9 @@
           "type": "File",
           "artifact": {
             "size": 1137431,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/moonlight-1.20-2.12.17-fabric.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/moonlight-1.20-2.12.17-fabric.jar",
             "MD5": "46f0e46fc1b871b65c1949431158e532",
-            "path": "moonlight-1.20-2.12.17-fabric.jar"
+            "path": "mods/moonlight-1.20-2.12.17-fabric.jar"
           }
         },
         {
@@ -896,9 +896,9 @@
           "type": "File",
           "artifact": {
             "size": 77943,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/MouseTweaks-fabric-mc1.20-2.26.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/MouseTweaks-fabric-mc1.20-2.26.jar",
             "MD5": "3138c776d370c90603938eb54d17469a",
-            "path": "MouseTweaks-fabric-mc1.20-2.26.jar"
+            "path": "mods/MouseTweaks-fabric-mc1.20-2.26.jar"
           }
         },
         {
@@ -907,9 +907,9 @@
           "type": "File",
           "artifact": {
             "size": 4361408,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mythic-mounts-1.20.1-7.4.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/mythic-mounts-1.20.1-7.4.jar",
             "MD5": "1d884f64addf0413cc7f1236883e6c1a",
-            "path": "mythic-mounts-1.20.1-7.4.jar"
+            "path": "mods/mythic-mounts-1.20.1-7.4.jar"
           }
         },
         {
@@ -918,9 +918,9 @@
           "type": "File",
           "artifact": {
             "size": 3214377,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mythicmetals-0.19.9+1.20.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/mythicmetals-0.19.9+1.20.1.jar",
             "MD5": "c1ce90907d38928b34fb4396d0bdee0d",
-            "path": "mythicmetals-0.19.9+1.20.1.jar"
+            "path": "mods/mythicmetals-0.19.9+1.20.1.jar"
           }
         },
         {
@@ -929,9 +929,9 @@
           "type": "File",
           "artifact": {
             "size": 202440,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/niftycarts-3.0.2+1.20.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/niftycarts-3.0.2+1.20.1.jar",
             "MD5": "d17c30ef18843f0c98a22a39be2e0d6f",
-            "path": "niftycarts-3.0.2+1.20.1.jar"
+            "path": "mods/niftycarts-3.0.2+1.20.1.jar"
           }
         },
         {
@@ -940,9 +940,9 @@
           "type": "File",
           "artifact": {
             "size": 172356,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/nyfsspiders-fabric-1.20.1-2.1.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/nyfsspiders-fabric-1.20.1-2.1.1.jar",
             "MD5": "17af1481adffaac2e7b7f169c4d9285d",
-            "path": "nyfsspiders-fabric-1.20.1-2.1.1.jar"
+            "path": "mods/nyfsspiders-fabric-1.20.1-2.1.1.jar"
           }
         },
         {
@@ -951,9 +951,9 @@
           "type": "File",
           "artifact": {
             "size": 627739,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/originfur-1.0.10.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/originfur-1.0.10.jar",
             "MD5": "3147262adec934e4230829fd6df7b869",
-            "path": "originfur-1.0.10.jar"
+            "path": "mods/originfur-1.0.10.jar"
           }
         },
         {
@@ -962,9 +962,9 @@
           "type": "File",
           "artifact": {
             "size": 2543753,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/Origins-1.20.1-1.10.0.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Origins-1.20.1-1.10.0.jar",
             "MD5": "aa4c6d7d254ed6240d755cb7eae21b16",
-            "path": "Origins-1.20.1-1.10.0.jar"
+            "path": "mods/Origins-1.20.1-1.10.0.jar"
           }
         },
         {
@@ -973,9 +973,9 @@
           "type": "File",
           "artifact": {
             "size": 1324369,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/origins-plus-plus-2.2.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/origins-plus-plus-2.2.jar",
             "MD5": "d2e8d0ce10fbe1a64299c6c9cb18ff29",
-            "path": "origins-plus-plus-2.2.jar"
+            "path": "mods/origins-plus-plus-2.2.jar"
           }
         },
         {
@@ -984,9 +984,9 @@
           "type": "File",
           "artifact": {
             "size": 161464,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/origins-vampire-v2.2.0.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/origins-vampire-v2.2.0.jar",
             "MD5": "b31da02f399343cb10cf0807f1e5aa52",
-            "path": "origins-vampire-v2.2.0.jar"
+            "path": "mods/origins-vampire-v2.2.0.jar"
           }
         },
         {
@@ -995,9 +995,9 @@
           "type": "File",
           "artifact": {
             "size": 42441,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/originsumbrellas-1.5.6.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/originsumbrellas-1.5.6.jar",
             "MD5": "2a854902c9cdb0794b6b59148b271b80",
-            "path": "originsumbrellas-1.5.6.jar"
+            "path": "mods/originsumbrellas-1.5.6.jar"
           }
         },
         {
@@ -1006,9 +1006,9 @@
           "type": "File",
           "artifact": {
             "size": 905421,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/owo-lib-0.11.2+1.20.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/owo-lib-0.11.2+1.20.jar",
             "MD5": "9150f588f732ae38c0320a17fa340626",
-            "path": "owo-lib-0.11.2+1.20.jar"
+            "path": "mods/owo-lib-0.11.2+1.20.jar"
           }
         },
         {
@@ -1017,9 +1017,9 @@
           "type": "File",
           "artifact": {
             "size": 856882,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/Patchouli-1.20.1-84-FABRIC.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Patchouli-1.20.1-84-FABRIC.jar",
             "MD5": "f6ba47b02420c150a14eac64ac3625ae",
-            "path": "Patchouli-1.20.1-84-FABRIC.jar"
+            "path": "mods/Patchouli-1.20.1-84-FABRIC.jar"
           }
         },
         {
@@ -1028,9 +1028,9 @@
           "type": "File",
           "artifact": {
             "size": 555041,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/Pehkui-3.8.3+1.14.4-1.21.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Pehkui-3.8.3+1.14.4-1.21.jar",
             "MD5": "c28dbac324e13836c2c15e47bfcd9e45",
-            "path": "Pehkui-3.8.3+1.14.4-1.21.jar"
+            "path": "mods/Pehkui-3.8.3+1.14.4-1.21.jar"
           }
         },
         {
@@ -1039,9 +1039,9 @@
           "type": "File",
           "artifact": {
             "size": 7352,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/pixi.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/pixi.jar",
             "MD5": "2b4c9425be75b91f7723124861189162",
-            "path": "pixi.jar"
+            "path": "mods/pixi.jar"
           }
         },
         {
@@ -1050,9 +1050,9 @@
           "type": "File",
           "artifact": {
             "size": 11375312,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/plasmovoice-fabric-1.20.1-2.0.10.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/plasmovoice-fabric-1.20.1-2.0.10.jar",
             "MD5": "0732e196a467cbaae908f21c1b7815c2",
-            "path": "plasmovoice-fabric-1.20.1-2.0.10.jar"
+            "path": "mods/plasmovoice-fabric-1.20.1-2.0.10.jar"
           }
         },
         {
@@ -1061,9 +1061,9 @@
           "type": "File",
           "artifact": {
             "size": 181008,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
             "MD5": "03dfb09aabe5c2c8167568cd5c32666b",
-            "path": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar"
+            "path": "mods/player-animation-lib-fabric-1.0.2-rc1+1.20.jar"
           }
         },
         {
@@ -1072,9 +1072,9 @@
           "type": "File",
           "artifact": {
             "size": 99868,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/projectile_damage-fabric-3.2.3+1.20.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/projectile_damage-fabric-3.2.3+1.20.1.jar",
             "MD5": "d690513d0b9c1e67550183d724b028f1",
-            "path": "projectile_damage-fabric-3.2.3+1.20.1.jar"
+            "path": "mods/projectile_damage-fabric-3.2.3+1.20.1.jar"
           }
         },
         {
@@ -1083,9 +1083,9 @@
           "type": "File",
           "artifact": {
             "size": 979035,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/PuzzlesLib-v8.1.19-1.20.1-Fabric.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/PuzzlesLib-v8.1.19-1.20.1-Fabric.jar",
             "MD5": "474c3dbf29d7d813cc1f6976ed55b1fd",
-            "path": "PuzzlesLib-v8.1.19-1.20.1-Fabric.jar"
+            "path": "mods/PuzzlesLib-v8.1.19-1.20.1-Fabric.jar"
           }
         },
         {
@@ -1094,9 +1094,9 @@
           "type": "File",
           "artifact": {
             "size": 53378,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/pv-addon-broadcast-1.0.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/pv-addon-broadcast-1.0.1.jar",
             "MD5": "33b23a8756631174e29980e3380c87aa",
-            "path": "pv-addon-broadcast-1.0.1.jar"
+            "path": "mods/pv-addon-broadcast-1.0.1.jar"
           }
         },
         {
@@ -1105,9 +1105,9 @@
           "type": "File",
           "artifact": {
             "size": 132755,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/pv-addon-groups-1.0.3.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/pv-addon-groups-1.0.3.jar",
             "MD5": "865a4e816a48eb71e7edb4d6af3005dc",
-            "path": "pv-addon-groups-1.0.3.jar"
+            "path": "mods/pv-addon-groups-1.0.3.jar"
           }
         },
         {
@@ -1116,9 +1116,9 @@
           "type": "File",
           "artifact": {
             "size": 13910,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/pv-addon-whisper-1.0.0.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/pv-addon-whisper-1.0.0.jar",
             "MD5": "723af9bdcdc1d254bb879d800ae84918",
-            "path": "pv-addon-whisper-1.0.0.jar"
+            "path": "mods/pv-addon-whisper-1.0.0.jar"
           }
         },
         {
@@ -1127,9 +1127,9 @@
           "type": "File",
           "artifact": {
             "size": 114936,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/ranged_weapon_api-1.1.4+1.20.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/ranged_weapon_api-1.1.4+1.20.1.jar",
             "MD5": "3a7797f55299d2de2aa7ce9698264779",
-            "path": "ranged_weapon_api-1.1.4+1.20.1.jar"
+            "path": "mods/ranged_weapon_api-1.1.4+1.20.1.jar"
           }
         },
         {
@@ -1138,9 +1138,9 @@
           "type": "File",
           "artifact": {
             "size": 540121,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/reincarnation-origins-phoenix-1.0.4-1.20.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/reincarnation-origins-phoenix-1.0.4-1.20.jar",
             "MD5": "626c4f7b194ad4fa89a33f2f6eaad66e",
-            "path": "reincarnation-origins-phoenix-1.0.4-1.20.jar"
+            "path": "mods/reincarnation-origins-phoenix-1.0.4-1.20.jar"
           }
         },
         {
@@ -1149,9 +1149,9 @@
           "type": "File",
           "artifact": {
             "size": 573003,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/reincarnation-origins-werewolf-1.1.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/reincarnation-origins-werewolf-1.1.1.jar",
             "MD5": "15c37ffc40a4caddee5ccfc38e2b4034",
-            "path": "reincarnation-origins-werewolf-1.1.1.jar"
+            "path": "mods/reincarnation-origins-werewolf-1.1.1.jar"
           }
         },
         {
@@ -1160,9 +1160,9 @@
           "type": "File",
           "artifact": {
             "size": 134793,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/resourcefulconfig-fabric-1.20.1-2.1.2.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/resourcefulconfig-fabric-1.20.1-2.1.2.jar",
             "MD5": "84b1427c5d4cfd30e54c20ba4120e8d3",
-            "path": "resourcefulconfig-fabric-1.20.1-2.1.2.jar"
+            "path": "mods/resourcefulconfig-fabric-1.20.1-2.1.2.jar"
           }
         },
         {
@@ -1171,9 +1171,9 @@
           "type": "File",
           "artifact": {
             "size": 269187,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/Schwarz%20Origin%20Update.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Schwarz%20Origin%20Update.jar",
             "MD5": "37fd9059c432a85207816f108e6441db",
-            "path": "Schwarz Origin Update.jar"
+            "path": "mods/Schwarz Origin Update.jar"
           }
         },
         {
@@ -1182,9 +1182,9 @@
           "type": "File",
           "artifact": {
             "size": 815391,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/servercore-fabric-1.5.1+1.20.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/servercore-fabric-1.5.1+1.20.1.jar",
             "MD5": "83f90f1b81b4bca50966e842c43b7ff5",
-            "path": "servercore-fabric-1.5.1+1.20.1.jar"
+            "path": "mods/servercore-fabric-1.5.1+1.20.1.jar"
           }
         },
         {
@@ -1193,9 +1193,9 @@
           "type": "File",
           "artifact": {
             "size": 15366470,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/simplyswords-1.56.0-1.20.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/simplyswords-1.56.0-1.20.1.jar",
             "MD5": "307f190b49947ace559334609eb66634",
-            "path": "simplyswords-1.56.0-1.20.1.jar"
+            "path": "mods/simplyswords-1.56.0-1.20.1.jar"
           }
         },
         {
@@ -1204,9 +1204,9 @@
           "type": "File",
           "artifact": {
             "size": 359760,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/SmartBrainLib-fabric-1.20.1-1.15.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/SmartBrainLib-fabric-1.20.1-1.15.jar",
             "MD5": "91ab518d6de31c22e092e53bda448adb",
-            "path": "SmartBrainLib-fabric-1.20.1-1.15.jar"
+            "path": "mods/SmartBrainLib-fabric-1.20.1-1.15.jar"
           }
         },
         {
@@ -1215,9 +1215,9 @@
           "type": "File",
           "artifact": {
             "size": 6211457,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/soulslike-weaponry-1.1.4.2-1.20.1-fabric.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/soulslike-weaponry-1.1.4.2-1.20.1-fabric.jar",
             "MD5": "beaf517947d006c7b7e8a1ecd5cabea6",
-            "path": "soulslike-weaponry-1.1.4.2-1.20.1-fabric.jar"
+            "path": "mods/soulslike-weaponry-1.1.4.2-1.20.1-fabric.jar"
           }
         },
         {
@@ -1226,9 +1226,9 @@
           "type": "File",
           "artifact": {
             "size": 3082974,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/spark-1.10.53-fabric.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/spark-1.10.53-fabric.jar",
             "MD5": "d590c2c10bb832130029c37d1bdd6bf9",
-            "path": "spark-1.10.53-fabric.jar"
+            "path": "mods/spark-1.10.53-fabric.jar"
           }
         },
         {
@@ -1237,9 +1237,9 @@
           "type": "File",
           "artifact": {
             "size": 127368,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/starlight-1.1.2+fabric.dbc156f.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/starlight-1.1.2+fabric.dbc156f.jar",
             "MD5": "a0b391bf55891502c2074bd078bb5899",
-            "path": "starlight-1.1.2+fabric.dbc156f.jar"
+            "path": "mods/starlight-1.1.2+fabric.dbc156f.jar"
           }
         },
         {
@@ -1248,9 +1248,9 @@
           "type": "File",
           "artifact": {
             "size": 251671,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/styledplayerlist-3.1.1+1.20.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/styledplayerlist-3.1.1+1.20.1.jar",
             "MD5": "20b23bce17bca67c18a0c86457c4ddb2",
-            "path": "styledplayerlist-3.1.1+1.20.1.jar"
+            "path": "mods/styledplayerlist-3.1.1+1.20.1.jar"
           }
         },
         {
@@ -1259,9 +1259,9 @@
           "type": "File",
           "artifact": {
             "size": 14344766,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/supplementaries-1.20-2.8.17-fabric.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/supplementaries-1.20-2.8.17-fabric.jar",
             "MD5": "824e26c7e29fc39363cb5c35699856e6",
-            "path": "supplementaries-1.20-2.8.17-fabric.jar"
+            "path": "mods/supplementaries-1.20-2.8.17-fabric.jar"
           }
         },
         {
@@ -1270,9 +1270,9 @@
           "type": "File",
           "artifact": {
             "size": 2187301,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/tabtps-fabric-mc1.20.1-1.3.18.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/tabtps-fabric-mc1.20.1-1.3.18.jar",
             "MD5": "5939d70e1e37366c8cc78f905e5d59e1",
-            "path": "tabtps-fabric-mc1.20.1-1.3.18.jar"
+            "path": "mods/tabtps-fabric-mc1.20.1-1.3.18.jar"
           }
         },
         {
@@ -1281,9 +1281,9 @@
           "type": "File",
           "artifact": {
             "size": 40820,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/togglenametags-2.0.3.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/togglenametags-2.0.3.jar",
             "MD5": "2366911982d5db21e28b3abcf6dac17c",
-            "path": "togglenametags-2.0.3.jar"
+            "path": "mods/togglenametags-2.0.3.jar"
           }
         },
         {
@@ -1292,9 +1292,9 @@
           "type": "File",
           "artifact": {
             "size": 238532,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/trinkets-3.7.2.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/trinkets-3.7.2.jar",
             "MD5": "c010ccc2015e5b1f3cb1994694ecc512",
-            "path": "trinkets-3.7.2.jar"
+            "path": "mods/trinkets-3.7.2.jar"
           }
         },
         {
@@ -1303,9 +1303,9 @@
           "type": "File",
           "artifact": {
             "size": 484900,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/walkers-5.2.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/walkers-5.2.jar",
             "MD5": "bab04ef9675121012faf052f08b76cf0",
-            "path": "walkers-5.2.jar"
+            "path": "mods/walkers-5.2.jar"
           }
         },
         {
@@ -1314,9 +1314,9 @@
           "type": "File",
           "artifact": {
             "size": 948816,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/XaerosWorldMap_1.39.0_Fabric_1.20.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/XaerosWorldMap_1.39.0_Fabric_1.20.jar",
             "MD5": "10fc5fdbf7640474d6e718873d77218a",
-            "path": "XaerosWorldMap_1.39.0_Fabric_1.20.jar"
+            "path": "mods/XaerosWorldMap_1.39.0_Fabric_1.20.jar"
           }
         },
         {
@@ -1325,9 +1325,9 @@
           "type": "File",
           "artifact": {
             "size": 1561763,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/Xaeros_Minimap_24.4.0_Fabric_1.20.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Xaeros_Minimap_24.4.0_Fabric_1.20.jar",
             "MD5": "ed21ef60e289f7354c8febfff321cab6",
-            "path": "Xaeros_Minimap_24.4.0_Fabric_1.20.jar"
+            "path": "mods/Xaeros_Minimap_24.4.0_Fabric_1.20.jar"
           }
         },
         {
@@ -1336,9 +1336,9 @@
           "type": "File",
           "artifact": {
             "size": 10386,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/xlpackets-1.0.4-1.20.x.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/xlpackets-1.0.4-1.20.x.jar",
             "MD5": "783fd42e06b44e0ae45708152c7bc4d6",
-            "path": "xlpackets-1.0.4-1.20.x.jar"
+            "path": "mods/xlpackets-1.0.4-1.20.x.jar"
           }
         },
         {
@@ -1347,9 +1347,9 @@
           "type": "File",
           "artifact": {
             "size": 1148529,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar",
             "MD5": "84ec83096ccce215ad670ce6ea8c3055",
-            "path": "YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar"
+            "path": "mods/YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar"
           }
         },
         {
@@ -1358,9 +1358,9 @@
           "type": "File",
           "artifact": {
             "size": 809496,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/Zoomify-2.14.0+1.20.1.jar",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Zoomify-2.14.0+1.20.1.jar",
             "MD5": "aec4d3b9216c592d89cdbcf1af41ad8a",
-            "path": "Zoomify-2.14.0+1.20.1.jar"
+            "path": "mods/Zoomify-2.14.0+1.20.1.jar"
           }
         }
       ]
