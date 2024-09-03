@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "1234084478197039185",
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "logorb"
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
@@ -13,14 +13,14 @@
       "description": "RB-PJ-SS2 Running Minecraft 1.20.1 (Fabric v0.16.3)",
       "icon": null,
       "version": "1.0.0",
-      "address": "rebootproject-smp.online",
+      "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
@@ -173,6 +173,16 @@
             "size": 721366,
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/fabricmods/required/modmenu-7.2.2.jar",
             "MD5": "2629511a2d3b141d9f2a24dc9685637e"
+          }
+        },
+        {
+          "id": "net.tslat:smartbrainlib:1.15@jar",
+          "name": "SmartBrainLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 359760,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/fabricmods/required/SmartBrainLib-fabric-1.20.1-1.15.jar",
+            "MD5": "91ab518d6de31c22e092e53bda448adb"
           }
         },
         {
@@ -993,16 +1003,6 @@
             "size": 64238,
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/sit-1.20.1-27.jar",
             "path": "mods/sit-1.20.1-27.jar"
-          }
-        },
-        {
-          "id": "SmartBrainLib-fabric-1.20.1-1.15.jar",
-          "name": "SmartBrainLib-fabric-1.20.1-1.15.jar",
-          "type": "File",
-          "artifact": {
-            "size": 359760,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/SmartBrainLib-fabric-1.20.1-1.15.jar",
-            "path": "mods/SmartBrainLib-fabric-1.20.1-1.15.jar"
           }
         },
         {
