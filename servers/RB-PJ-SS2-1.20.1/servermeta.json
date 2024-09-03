@@ -17,5 +17,12 @@
   "fabric": {
     "version": "0.16.3"
   },
-  "untrackedFiles": []
+  "untrackedFiles": [
+	{
+		"appliesTo": ["files"],
+		"patterns": [
+			"mods/*.jar"
+		]
+	}
+  ]
 }
