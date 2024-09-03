@@ -3,8 +3,8 @@
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1234084478197039185",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "smallImageText": "",
+    "smallImageKey": ""
   },
   "servers": [
     {
@@ -13,14 +13,14 @@
       "description": "RB-SS2 Running Minecraft 1.20.1 (Fabric v0.16.4)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "rebootproject-smp.online",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "SS2 : The Curse of History",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "largeImageText": "",
+        "largeImageKey": ""
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
