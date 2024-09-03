@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "1234084478197039185",
-    "smallImageText": "",
-    "smallImageKey": "logorb"
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
@@ -16,9 +16,9 @@
       "address": "rebootproject-smp.online",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "",
-        "largeImageText": "",
-        "largeImageKey": ""
+        "shortId": "SS2 : The Curse of History",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": true,
       "autoconnect": false,
@@ -1119,6 +1119,17 @@
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-SS2-1.20.1/files/simplyswords-1.56.0-1.20.1.jar",
             "MD5": "307f190b49947ace559334609eb66634",
             "path": "simplyswords-1.56.0-1.20.1.jar"
+          }
+        },
+        {
+          "id": "sit-1.20.1-27.jar",
+          "name": "sit-1.20.1-27.jar",
+          "type": "File",
+          "artifact": {
+            "size": 64238,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-SS2-1.20.1/files/sit-1.20.1-27.jar",
+            "MD5": "cb59bea8fdbd7a6f17108b83f4570365",
+            "path": "sit-1.20.1-27.jar"
           }
         },
         {
