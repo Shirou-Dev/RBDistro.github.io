@@ -3,7 +3,7 @@
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1280543559182843985",
-    "smallImageText": "",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageKey": "logorb"
   },
   "servers": [
@@ -136,23 +136,23 @@
           }
         },
         {
-          "id": "link.infra:indium:1.0.34+mc1.20.1@jar",
+          "id": "link.infra:indium:1.0.27+mc1.20.1@jar",
           "name": "Indium",
           "type": "FabricMod",
           "artifact": {
-            "size": 105359,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/fabricmods/required/indium-1.0.34+mc1.20.1.jar",
-            "MD5": "91f3ce08edec42ee8f6b45fd6ae0c8b3"
+            "size": 104807,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/fabricmods/required/indium-1.0.27+mc1.20.1.jar",
+            "MD5": "3e9cb7736e01332c1789be0e7583dbf8"
           }
         },
         {
-          "id": "generated.fabricmod:iris:1.7.2+mc1.20.1@jar",
+          "id": "generated.fabricmod:iris:1.6.10@jar",
           "name": "Iris",
           "type": "FabricMod",
           "artifact": {
-            "size": 2701293,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/fabricmods/required/iris-1.7.2+mc1.20.1.jar",
-            "MD5": "fde2833d321c3f09020bd456094693d3"
+            "size": 2412690,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/fabricmods/required/iris-mc1.20.1-1.6.10.jar",
+            "MD5": "c2fec037c71f3574e758ad5833f2ac73"
           }
         },
         {
@@ -176,6 +176,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:reeses-sodium-options:1.6.4+mc1.20.1-build.94@jar",
+          "name": "Reese's Sodium Options",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 69662,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/fabricmods/required/reeses_sodium_options-1.6.4+mc1.20.1-build.94.jar",
+            "MD5": "377cceed07cadc32f8830b6c7c09564c"
+          }
+        },
+        {
           "id": "net.tslat:smartbrainlib:1.15@jar",
           "name": "SmartBrainLib",
           "type": "FabricMod",
@@ -186,23 +196,23 @@
           }
         },
         {
-          "id": "me.flashyreese.mods.sodiumextra:sodium-extra:0.5.4+mc1.20.1-build.115@jar",
+          "id": "me.flashyreese.mods.sodiumextra:sodium-extra:0.5.1+mc1.20.1-build.112@jar",
           "name": "Sodium Extra",
           "type": "FabricMod",
           "artifact": {
-            "size": 385539,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/fabricmods/required/sodium-extra-0.5.4+mc1.20.1-build.115.jar",
-            "MD5": "9eaed09a486eee9a1326de5dd80faa0a"
+            "size": 365533,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/fabricmods/required/sodium-extra-0.5.1+mc1.20.1-build.112.jar",
+            "MD5": "58d4b98aa8b259665c835fc6add5021b"
           }
         },
         {
-          "id": "me.jellysquid.mods:sodium:0.5.11+mc1.20.1@jar",
+          "id": "me.jellysquid.mods:sodium:0.5.3@jar",
           "name": "Sodium",
           "type": "FabricMod",
           "artifact": {
-            "size": 968419,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/fabricmods/required/sodium-fabric-0.5.11+mc1.20.1.jar",
-            "MD5": "9880bae748957d1cb6c4de50c8e0452a"
+            "size": 852373,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/fabricmods/required/sodium-fabric-mc1.20.1-0.5.3.jar",
+            "MD5": "11db63c388786f3bfdb9e60c9c0a25c1"
           }
         },
         {
