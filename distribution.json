@@ -2312,17 +2312,6 @@
           }
         },
         {
-          "id": "litematica-fabric-1.20.1-0.15.4.jar",
-          "name": "litematica-fabric-1.20.1-0.15.4.jar",
-          "type": "File",
-          "artifact": {
-            "size": 923876,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/files/mods/litematica-fabric-1.20.1-0.15.4.jar",
-            "MD5": "4f716692227e2e5290aa862984104316",
-            "path": "mods/litematica-fabric-1.20.1-0.15.4.jar"
-          }
-        },
-        {
           "id": "memoryleakfix-forge-1.17+-1.1.5.jar",
           "name": "memoryleakfix-forge-1.17+-1.1.5.jar",
           "type": "File",
