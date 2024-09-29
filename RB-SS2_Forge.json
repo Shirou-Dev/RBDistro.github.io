@@ -1,0 +1,1304 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "1280543559182843985",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "logorb"
+  },
+  "servers": [
+    {
+      "id": "RB_SS2_Forge-1.20.1",
+      "name": "RB_SS2_Forge (Minecraft 1.20.1)",
+      "description": "RB_SS2_Forge Running Minecraft 1.20.1 (Forge v47.3.10)",
+      "icon": null,
+      "version": "1.0.1",
+      "address": "rebootproject-smp.online",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "",
+        "largeImageText": "",
+        "largeImageKey": ""
+      },
+      "mainServer": true,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.10",
+          "name": "Minecraft Forge (lowcodelanguage)",
+          "type": "ForgeHosted",
+          "classpath": true,
+          "artifact": {
+            "size": 7399,
+            "MD5": "fbb91ae57ddd18723399ccb684f65706",
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.10/lowcodelanguage-1.20.1-47.3.10.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-47.3.10",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 16554,
+                "MD5": "135c3a04e61e9451fb7c7fb6431b2549",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/versions/1.20.1-forge-47.3.10/1.20.1-forge-47.3.10.json"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.3.10",
+              "name": "Minecraft Forge (fmlcore)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 118579,
+                "MD5": "95f5cc2de1237cd350176abaa1e37085",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.10/fmlcore-1.20.1-47.3.10.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.3.10",
+              "name": "Minecraft Forge (javafmllanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 16855,
+                "MD5": "2457f76791a32ba9cb9377c6216544da",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.10/javafmllanguage-1.20.1-47.3.10.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.3.10",
+              "name": "Minecraft Forge (mclanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 5000,
+                "MD5": "d298b20a445637b4655308a0fd0c1c4c",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.10/mclanguage-1.20.1-47.3.10.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.3.10:universal",
+              "name": "Minecraft Forge (universal jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 2753586,
+                "MD5": "b6081b6ddf8a6d43df4c38b1f3decf18",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraftforge/forge/1.20.1-47.3.10/forge-1.20.1-47.3.10-universal.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.3.10:client",
+              "name": "Minecraft Forge (client jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 4793821,
+                "MD5": "8e4fb7202d94e3336ea097a8621e8733",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraftforge/forge/1.20.1-47.3.10/forge-1.20.1-47.3.10-client.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
+              "name": "Minecraft Forge (client srg)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 18842082,
+                "MD5": "8bfacfba4f54cda741019756165c5ecf",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:slim",
+              "name": "Minecraft Forge (client slim)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 12592249,
+                "MD5": "28edebec7b5a007bc9961ee9bab4d764",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
+              "name": "Minecraft Forge (client extra)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 10436626,
+                "MD5": "da6bb1a2c23108392fd6c103da40867c",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "cpw.mods:securejarhandler:2.1.10",
+              "name": "Minecraft Forge (securejarhandler)",
+              "type": "Library",
+              "artifact": {
+                "size": 88749,
+                "MD5": "d9ff48d1c68388270388b803fa42611e",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.7",
+              "name": "Minecraft Forge (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 125428,
+                "MD5": "3957b18bf02a62edcb6726d074b90b08",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/org/ow2/asm/asm/9.7/asm-9.7.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.7",
+              "name": "Minecraft Forge (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73426,
+                "MD5": "53a46610df6a8dbc4ff85b8fd4cdea66",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.7",
+              "name": "Minecraft Forge (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51934,
+                "MD5": "ea5cad3e0cbd2520688e4b0b5c4218e7",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.7",
+              "name": "Minecraft Forge (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 93784,
+                "MD5": "e7d6e20888e6fd99605f4c5fe1dfa8b0",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.7",
+              "name": "Minecraft Forge (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 34776,
+                "MD5": "910ac9c691023f1a9ff33c413ae9fbf6",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:accesstransformers:8.0.4",
+              "name": "Minecraft Forge (accesstransformers)",
+              "type": "Library",
+              "artifact": {
+                "size": 77756,
+                "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+              }
+            },
+            {
+              "id": "org.antlr:antlr4-runtime:4.9.1",
+              "name": "Minecraft Forge (antlr4-runtime)",
+              "type": "Library",
+              "artifact": {
+                "size": 337868,
+                "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:eventbus:6.0.5",
+              "name": "Minecraft Forge (eventbus)",
+              "type": "Library",
+              "artifact": {
+                "size": 53985,
+                "MD5": "2a6245210b446b2144071e71ca13432b",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:forgespi:7.0.1",
+              "name": "Minecraft Forge (forgespi)",
+              "type": "Library",
+              "artifact": {
+                "size": 29831,
+                "MD5": "bd34d20287dc95201fe9475a8bbc2540",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:coremods:5.1.6",
+              "name": "Minecraft Forge (coremods)",
+              "type": "Library",
+              "artifact": {
+                "size": 24124,
+                "MD5": "4b4fe7e512819804660d621bf11c7381",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraftforge/coremods/5.1.6/coremods-5.1.6.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:modlauncher:10.0.9",
+              "name": "Minecraft Forge (modlauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 130343,
+                "MD5": "07507d18d72661f8ae6a5da75bbf35be",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:unsafe:0.2.0",
+              "name": "Minecraft Forge (unsafe)",
+              "type": "Library",
+              "artifact": {
+                "size": 2834,
+                "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:mergetool:1.1.5:api",
+              "name": "Minecraft Forge (mergetool)",
+              "type": "Library",
+              "artifact": {
+                "size": 2572,
+                "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:core:3.6.4",
+              "name": "Minecraft Forge (core)",
+              "type": "Library",
+              "artifact": {
+                "size": 199834,
+                "MD5": "d83ab07267e402131fb93d899a57f5cd",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:toml:3.6.4",
+              "name": "Minecraft Forge (toml)",
+              "type": "Library",
+              "artifact": {
+                "size": 31816,
+                "MD5": "bc95d0709fff2164b01fd09fbc988be8",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.8.5",
+              "name": "Minecraft Forge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "size": 58077,
+                "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+              }
+            },
+            {
+              "id": "net.jodah:typetools:0.6.3",
+              "name": "Minecraft Forge (typetools)",
+              "type": "Library",
+              "artifact": {
+                "size": 18281,
+                "MD5": "d4a375bf382f726cf1a650ccb38a736c",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+              }
+            },
+            {
+              "id": "net.minecrell:terminalconsoleappender:1.2.0",
+              "name": "Minecraft Forge (terminalconsoleappender)",
+              "type": "Library",
+              "artifact": {
+                "size": 15977,
+                "MD5": "679363fa893293791e55a21f81342f87",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-reader:3.12.1",
+              "name": "Minecraft Forge (jline-reader)",
+              "type": "Library",
+              "artifact": {
+                "size": 150765,
+                "MD5": "a2e7b012cd9802f83321187409174a94",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-terminal:3.12.1",
+              "name": "Minecraft Forge (jline-terminal)",
+              "type": "Library",
+              "artifact": {
+                "size": 211712,
+                "MD5": "3c52be5ab5e3847be6e62269de924cb0",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.spongepowered:mixin:0.8.5",
+              "name": "Minecraft Forge (mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1089277,
+                "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+              }
+            },
+            {
+              "id": "org.openjdk.nashorn:nashorn-core:15.3",
+              "name": "Minecraft Forge (nashorn-core)",
+              "type": "Library",
+              "artifact": {
+                "size": 2167288,
+                "MD5": "91e98c20afa1090c344229ce28b4c53f",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarSelector:0.3.19",
+              "name": "Minecraft Forge (JarJarSelector)",
+              "type": "Library",
+              "artifact": {
+                "size": 17374,
+                "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarMetadata:0.3.19",
+              "name": "Minecraft Forge (JarJarMetadata)",
+              "type": "Library",
+              "artifact": {
+                "size": 15895,
+                "MD5": "9633546d299d4282ca68d10582be1c8f",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:bootstraplauncher:1.1.2",
+              "name": "Minecraft Forge (bootstraplauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 8284,
+                "MD5": "48f5255aa337344c467c0150d347813d",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
+              "name": "Minecraft Forge (JarJarFileSystems)",
+              "type": "Library",
+              "artifact": {
+                "size": 32195,
+                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.3.10",
+              "name": "Minecraft Forge (fmlloader)",
+              "type": "Library",
+              "artifact": {
+                "size": 264940,
+                "MD5": "54ad40b5ca0be11735c3e5a4d4577542",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.10/fmlloader-1.20.1-47.3.10.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.10",
+              "name": "Minecraft Forge (fmlearlydisplay)",
+              "type": "Library",
+              "artifact": {
+                "size": 170426,
+                "MD5": "c89b408828adc032f8fa75660c9012b1",
+                "url": "http://shirou-dev.github.io/RBDistro.github.io/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.10/fmlearlydisplay-1.20.1-47.3.10.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "com.starfish_studios:another_furniture:1.20.1-3.0.1@jar",
+          "name": "Another Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2746864,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/another_furniture-forge-1.20.1-3.0.1.jar",
+            "MD5": "85653aaf197fa4e74c1e06c05e494f29"
+          }
+        },
+        {
+          "id": "dev.architectury:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 580602,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
+          }
+        },
+        {
+          "id": "brightspark.asynclocator:asynclocator:1.3.0@jar",
+          "name": "Async Locator",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 264951,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/async-locator-forge-1.20-1.3.0.jar",
+            "MD5": "8b5e3d0c39d567a44f269439f880b444"
+          }
+        },
+        {
+          "id": "net.darkhax:attributefix:21.0.4@jar",
+          "name": "AttributeFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19471,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/AttributeFix-Forge-1.20.1-21.0.4.jar",
+            "MD5": "e8fb517833e21335106e9d4d1a39ecd4"
+          }
+        },
+        {
+          "id": "mod.azure:azurelib:2.0.37@jar",
+          "name": "AzureLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 753224,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/azurelib-neo-1.20.1-2.0.37.jar",
+            "MD5": "e059338810100a78a815ce17cfd96da4"
+          }
+        },
+        {
+          "id": "io.github.kosmx:bendylib:4.0.0@jar",
+          "name": "Bendy lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 50745,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/bendy-lib-forge-4.0.0.jar",
+            "MD5": "4f270cbc45ac11b6747c90ce2ca1b89a"
+          }
+        },
+        {
+          "id": "net.bettercombat:bettercombat:1.8.6+1.20.1@jar",
+          "name": "Better Combat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1050118,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/bettercombat-forge-1.8.6+1.20.1.jar",
+            "MD5": "28f4682af86e8bdee7b808fa0adbdf81"
+          }
+        },
+        {
+          "id": "tschipp.carryon:carryon:2.1.2.7@jar",
+          "name": "Carry On",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 439457,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
+            "MD5": "8956b37c2ae11cc5522c8404a262c6b7"
+          }
+        },
+        {
+          "id": "net.gamerpotion:chidoriorigins:1.0.8@jar",
+          "name": "Chidori Origins Collection",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 30500,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/chidoriorigins-forge-1.20.1-1.0.8.jar",
+            "MD5": "8e841f006d0f27f71beb9c7c3e6e0917"
+          }
+        },
+        {
+          "id": "me.shedaniel.clothconfig:cloth_config:11.1.136@jar",
+          "name": "Cloth Config v10 API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1181413,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:comforts:6.4.0+1.20.1@jar",
+          "name": "Comforts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 382083,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/comforts-forge-6.4.0+1.20.1.jar",
+            "MD5": "a88fcc168de1a0f9b2ae4e7cbe8a8408"
+          }
+        },
+        {
+          "id": "com.connectivity:connectivity:1.20.1-5.6@jar",
+          "name": "Connectivity Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 84340,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/connectivity-1.20.1-5.6.jar",
+            "MD5": "55c2b3e2d8e562f218c843559cc846a1"
+          }
+        },
+        {
+          "id": "dev.su5ed.sinytra:connectorextras:1.11.2+1.20.1@jar",
+          "name": "Connector Extras",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 182464,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/ConnectorExtras-1.11.2+1.20.1.jar",
+            "MD5": "6a79978270b2aa5ddc42c2be4f4d73a7"
+          }
+        },
+        {
+          "id": "tocraft.craftedcore:craftedcore:5.5@jar",
+          "name": "CraftedCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 319707,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/craftedcore-5.5.jar",
+            "MD5": "7a8930279494a502a1160d786da2e01a"
+          }
+        },
+        {
+          "id": "com.simibubi:create:0.5.1.h@jar",
+          "name": "Create",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15577849,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/create-1.20.1-0.5.1.h.jar",
+            "MD5": "edd670404374248e3529f4765d1f2dcb"
+          }
+        },
+        {
+          "id": "com.github.talrey:createdeco:2.0.2-1.20.1-forge@jar",
+          "name": "Create Deco",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3966138,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/createdeco-2.0.2-1.20.1-forge.jar",
+            "MD5": "9c86ef2ebb60aa617ac92c3ae1d3c545"
+          }
+        },
+        {
+          "id": "net.dadamalda.create.less_ticking:create_lt:1.0.1-forge-mc1.20.1@jar",
+          "name": "Create: Less Ticking",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10895,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/create_lt-1.0.1-forge-mc1.20.1.jar",
+            "MD5": "3182fe04bb05990cd61d7809275ec543"
+          }
+        },
+        {
+          "id": "com.cupboard:cupboard:1.20.1-2.7@jar",
+          "name": "Cupboard utilities",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25983,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/cupboard-1.20.1-2.7.jar",
+            "MD5": "3620912474f47bf58d1fe5bfe133763a"
+          }
+        },
+        {
+          "id": "top.theillusivec4:curios:5.10.0+1.20.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 384929,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/curios-forge-5.10.0+1.20.1.jar",
+            "MD5": "73c3942efd83fdfe91c781f3e4119714"
+          }
+        },
+        {
+          "id": "com.fizzware:dramaticdoors:1.20.1-3.2.7@jar",
+          "name": "Dramatic Doors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12765794,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/DramaticDoors-QuiFabrge-1.20.1-3.2.7.jar",
+            "MD5": "cc0eb30e466600414db1b86d653c9e41"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
+          "id": "io.github.kosmx.emotes:emotecraft:2.2.7-b.build.50@jar",
+          "name": "Emotecraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 680255,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+            "MD5": "636c62379cd7c5201a70fd457808e331"
+          }
+        },
+        {
+          "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.2+1.11.8+1.20.1@jar",
+          "name": "Forgified Fabric API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3041071,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/fabric-api-0.92.2+1.11.8+1.20.1.jar",
+            "MD5": "7217481b8e9f40ac27273c1b5df0feb3"
+          }
+        },
+        {
+          "id": "generated.forgemod:fabric:seasons-2.3+1.20@jar",
+          "name": "Fabric",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 428398,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/fabric-seasons-2.3+1.20.jar",
+            "MD5": "d504c1cc6905f29ee01309734699f066"
+          }
+        },
+        {
+          "id": "generated.forgemod:fabric:seasons-delight-1.3.9-compat-1.0@jar",
+          "name": "Fabric",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 39100,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/fabric-seasons-delight-1.3.9-compat-1.0.jar",
+            "MD5": "2b48e0c9b4b78b275ed90b2de7d898ff"
+          }
+        },
+        {
+          "id": "generated.forgemod:fabric:seasons-extras-1.2-BETA+1.20@jar",
+          "name": "Fabric",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 273134,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/fabric-seasons-extras-1.2-BETA+1.20.jar",
+            "MD5": "7a09d33b6598c9cd62b433940c9cfd41"
+          }
+        },
+        {
+          "id": "generated.forgemod:fabrictailor:2.1.2@jar",
+          "name": "Fabrictailor",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 112497,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/fabrictailor-2.1.2.jar",
+            "MD5": "9c3575bb3fa1e7188a07a1d7eab7a048"
+          }
+        },
+        {
+          "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.4@jar",
+          "name": "Farmer's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2915349,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.4.jar",
+            "MD5": "5b6bee961b278a3edd6e3935b061fbaa"
+          }
+        },
+        {
+          "id": "generated.forgemod:figura:0.1.4+1.20.1-fabric-mc@jar",
+          "name": "Figura",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2313608,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/figura-0.1.4+1.20.1-fabric-mc.jar",
+            "MD5": "f4a65db9c13a6c53fecb4ab2d0ad10df"
+          }
+        },
+        {
+          "id": "generated.forgemod:forgeconfigapiport:v8.0.0-1.20.1-Fabric@jar",
+          "name": "ForgeConfigAPIPort",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 397198,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar",
+            "MD5": "9b680a583230400e887dc545aa974936"
+          }
+        },
+        {
+          "id": "dev.upcraft.origins.icarae.neoforge.entrypoints:icarae_origin:1.1.0-alpha.2@jar",
+          "name": "Icarae Origin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26001,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/Icarae-Origin-NeoForge-1.1.0-alpha.2.jar",
+            "MD5": "2e4c8b45adf00e0cbf68c05de0c2cd7c"
+          }
+        },
+        {
+          "id": "dev.cammiescorner.icarus.neoforge.entrypoints:icarus:2.10.0@jar",
+          "name": "Icarus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 339159,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/Icarus-NeoForge-2.10.0.jar",
+            "MD5": "a4a81479d35450d5b26a29f30511ecda"
+          }
+        },
+        {
+          "id": "de.cristelknight:doapi:1.2.15@jar",
+          "name": "[Let's Do] API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1440591,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/letsdo-API-forge-1.2.15-forge.jar",
+            "MD5": "82d392dd5ef6064d8988592a35b3b403"
+          }
+        },
+        {
+          "id": "net.satisfy:brewery:1.1.9@jar",
+          "name": "[Let's Do] Brewery",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2228646,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/letsdo-brewery-forge-1.1.9.jar",
+            "MD5": "74574ee4a0d8303f37ced2a8bc846584"
+          }
+        },
+        {
+          "id": "net.satisfy:meadow:1.3.19@jar",
+          "name": "[Let's Do] Meadow",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2582219,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/letsdo-meadow-forge-1.3.19.jar",
+            "MD5": "41344108025e0ca997abfbeac1559145"
+          }
+        },
+        {
+          "id": "net.satisfy:vinery:1.4.28@jar",
+          "name": "[Let's Do] Vinery",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3295849,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/letsdo-vinery-forge-1.4.28.jar",
+            "MD5": "b5a34300fcf20892e2cbf3e141cd4915"
+          }
+        },
+        {
+          "id": "generated.forgemod:malilib:fabric-1.20.1-0.16.3@jar",
+          "name": "Malilib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 545403,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/malilib-fabric-1.20.1-0.16.3.jar",
+            "MD5": "007a02b4cbca762018d2a56237d36631"
+          }
+        },
+        {
+          "id": "generated.forgemod:mcdw:9.0.4@jar",
+          "name": "Mcdw",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1494390,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/mcdw-9.0.4.jar",
+            "MD5": "b742ab330bda348d62ae48083e46d1c2"
+          }
+        },
+        {
+          "id": "com.mcwbridges.kikoz:mcwbridges:3.0.0@jar",
+          "name": "Macaw's Bridges",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 677705,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/mcw-bridges-3.0.0-mc1.20.1forge.jar",
+            "MD5": "27a5798467fc0799eab2505bb6a8f041"
+          }
+        },
+        {
+          "id": "com.mcwfurnitures.kikoz:mcwfurnitures:3.3.0@jar",
+          "name": "Macaw's Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1882792,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/mcw-furniture-3.3.0-mc1.20.1forge.jar",
+            "MD5": "f22230d8f84190aef6e62ca95e5da136"
+          }
+        },
+        {
+          "id": "eu.midnightdust:midnightlib:1.4.2@jar",
+          "name": "MidnightLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 62156,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/midnightlib-forge-1.4.2.jar",
+            "MD5": "d761d868afbde34f6d8a3e6ce5fd9793"
+          }
+        },
+        {
+          "id": "generated.forgemod:mobs_of_mythology:fabric-1.20.1-2.0.3@jar",
+          "name": "Mobs_of_mythology",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1009859,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/mobs_of_mythology-fabric-1.20.1-2.0.3.jar",
+            "MD5": "3720dbc54e9e86f36150980978812b61"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:moonlight:1.20-2.13.0@jar",
+          "name": "Moonlight Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1184294,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/moonlight-1.20-2.13.0-forge.jar",
+            "MD5": "2935dcddbffd804ee26c4d19f7192db1"
+          }
+        },
+        {
+          "id": "com.yahoo.chirpycricket:mythicmounts:20.1-7.4.2-forge@jar",
+          "name": "MythicMounts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4335508,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/mythicmounts-20.1-7.4.2-forge.jar",
+            "MD5": "0819fe9186886c8ccadf061d6c4fb2ea"
+          }
+        },
+        {
+          "id": "generated.forgemod:niftycarts:20.1.3@jar",
+          "name": "Niftycarts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 220927,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/niftycarts-20.1.3.jar",
+            "MD5": "97e33b9980026e8ca265fa80e739ee37"
+          }
+        },
+        {
+          "id": "com.nyfaria:nyfsspiders:2.1.1@jar",
+          "name": "Nyf's Spiders",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 178046,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/nyfsspiders-forge-1.20.1-2.1.1.jar",
+            "MD5": "ea108358eb205d13bf1aa15c534f628d"
+          }
+        },
+        {
+          "id": "net.irisshaders.iris:oculus:1.7.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2831148,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
+            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
+          }
+        },
+        {
+          "id": "io.github.apace100:origins:1.20.1-1.10.0.9@jar",
+          "name": "Origins",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2307868,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/origins-forge-1.20.1-1.10.0.9-all.jar",
+            "MD5": "354f0f804636e76e1efcd16f2ae245d3"
+          }
+        },
+        {
+          "id": "generated.forgemod:origins:plus-plus-2.2@jar",
+          "name": "Origins",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1324369,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/origins-plus-plus-2.2.jar",
+            "MD5": "d2e8d0ce10fbe1a64299c6c9cb18ff29"
+          }
+        },
+        {
+          "id": "generated.forgemod:originsumbrellas:1.5.6@jar",
+          "name": "Originsumbrellas",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 42441,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/originsumbrellas-1.5.6.jar",
+            "MD5": "2a854902c9cdb0794b6b59148b271b80"
+          }
+        },
+        {
+          "id": "generated.forgemod:owo:lib-0.11.2+1.20@jar",
+          "name": "Owo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 905421,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/owo-lib-0.11.2+1.20.jar",
+            "MD5": "9150f588f732ae38c0320a17fa340626"
+          }
+        },
+        {
+          "id": "vazkii.patchouli:patchouli:1.20.1-84-FORGE@jar",
+          "name": "Patchouli",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 642506,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/Patchouli-1.20.1-84-FORGE.jar",
+            "MD5": "64452a4404a2c47a782ba99cb90c3ca0"
+          }
+        },
+        {
+          "id": "virtuoel.pehkui:pehkui:3.8.2+1.20.1-forge@jar",
+          "name": "Pehkui",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 671605,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar",
+            "MD5": "95bdd5558d34044f54aab0ce292e679b"
+          }
+        },
+        {
+          "id": "generated.forgemod:pixi:0.0.0@jar",
+          "name": "Pixi",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7352,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/pixi.jar",
+            "MD5": "2b4c9425be75b91f7723124861189162"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.0.10@jar",
+          "name": "Plasmo Voice",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11372011,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.0.10.jar",
+            "MD5": "17216e50378a6c2580e577ff10abfb66"
+          }
+        },
+        {
+          "id": "dev.kosmx.playeranim:playeranimator:1.0.2-rc1+1.20@jar",
+          "name": "Player Animator",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 181437,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "MD5": "46f8554181d4d240075ea4919d01fd01"
+          }
+        },
+        {
+          "id": "net.projectile_damage:projectile_damage:3.2.2+1.20.1@jar",
+          "name": "Projectile Damage Attribute",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 251688,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/projectile_damage-forge-3.2.2+1.20.1.jar",
+            "MD5": "68c529bd75678dfe737895fbf8c3ea51"
+          }
+        },
+        {
+          "id": "fuzs.puzzleslib.impl:puzzleslib:8.1.23@jar",
+          "name": "Puzzles Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1002231,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/PuzzlesLib-v8.1.23-1.20.1-Forge.jar",
+            "MD5": "02b46fc0be5c865434ff6023f6a2f094"
+          }
+        },
+        {
+          "id": "generated.forgemod:ranged_weapon_api:1.1.4+1.20.1@jar",
+          "name": "Ranged_weapon_api",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 114936,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/ranged_weapon_api-1.1.4+1.20.1.jar",
+            "MD5": "3a7797f55299d2de2aa7ce9698264779"
+          }
+        },
+        {
+          "id": "generated.forgemod:reincarnation:origins-phoenix-1.0.4-1.20@jar",
+          "name": "Reincarnation",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 540121,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/reincarnation-origins-phoenix-1.0.4-1.20.jar",
+            "MD5": "626c4f7b194ad4fa89a33f2f6eaad66e"
+          }
+        },
+        {
+          "id": "generated.forgemod:reincarnation:origins-werewolf-1.1.1@jar",
+          "name": "Reincarnation",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 573003,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/reincarnation-origins-werewolf-1.1.1.jar",
+            "MD5": "15c37ffc40a4caddee5ccfc38e2b4034"
+          }
+        },
+        {
+          "id": "com.teamresourceful:resourcefulconfig:2.1.2@jar",
+          "name": "Resourcefulconfig",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 136630,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/resourcefulconfig-forge-1.20.1-2.1.2.jar",
+            "MD5": "84ec6d833405f9eb37b1275e8d828a74"
+          }
+        },
+        {
+          "id": "net.sweenus:simplyswords:1.56.0-1.20.1@jar",
+          "name": "Simply Swords",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15202091,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/simplyswords-forge-1.56.0-1.20.1.jar",
+            "MD5": "da155dc9ccd825f2a824532488675d85"
+          }
+        },
+        {
+          "id": "bl4ckscor3.mod:sit:1.3.5@jar",
+          "name": "Sit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14510,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/sit-1.20.1-1.3.5.jar",
+            "MD5": "87f16ae5de8125e49f3740a45b3fc1c7"
+          }
+        },
+        {
+          "id": "net.soulsweaponry:soulsweapons:1.1.4.4d-1.20.1-forge}@jar",
+          "name": "Marium's Soulslike Weaponry",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6477929,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/soulslike-weaponry-1.1.4.4d-1.20.1-forge.jar",
+            "MD5": "bf5ab9741afd4b34a8ba2ec43da4141d"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:supplementaries:1.20-2.8.17@jar",
+          "name": "Supplementaries",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14531952,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/supplementaries-1.20-2.8.17.jar",
+            "MD5": "6bf283334d5c5e30384e2432a5155383"
+          }
+        },
+        {
+          "id": "generated.forgemod:trinkets:3.7.2@jar",
+          "name": "Trinkets",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 238532,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/trinkets-3.7.2.jar",
+            "MD5": "c010ccc2015e5b1f3cb1994694ecc512"
+          }
+        },
+        {
+          "id": "tocraft.walkers:walkers:5.2@jar",
+          "name": "Walkers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 495681,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/walkers-5.2.jar",
+            "MD5": "ce9a62f27617b7f6b5f1cf6c5d3c6b1e"
+          }
+        },
+        {
+          "id": "generated.forgemod:xlpackets:1.0.4-1.20.x@jar",
+          "name": "Xlpackets",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7812,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/forgemods/required/xlpackets-1.0.4-1.20.x.jar",
+            "MD5": "d2e65d9be3bc0c73f55b56388494051c"
+          }
+        },
+        {
+          "id": "antique-atlas-2.9.17+1.20.jar",
+          "name": "antique-atlas-2.9.17+1.20.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1360038,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/files/mods/antique-atlas-2.9.17+1.20.jar",
+            "MD5": "a890e94c1e14b794b61cdbb6f1428403",
+            "path": "mods/antique-atlas-2.9.17+1.20.jar"
+          }
+        },
+        {
+          "id": "balm-forge-1.20.1-7.3.9-all.jar",
+          "name": "balm-forge-1.20.1-7.3.9-all.jar",
+          "type": "File",
+          "artifact": {
+            "size": 373583,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/files/mods/balm-forge-1.20.1-7.3.9-all.jar",
+            "MD5": "a4942cad7f427131372ee23cd3f44d2b",
+            "path": "mods/balm-forge-1.20.1-7.3.9-all.jar"
+          }
+        },
+        {
+          "id": "caelus-forge-3.2.0+1.20.1.jar",
+          "name": "caelus-forge-3.2.0+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 40125,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/files/mods/caelus-forge-3.2.0+1.20.1.jar",
+            "MD5": "ac909c99a2a96ead2073f98bf0dd7b78",
+            "path": "mods/caelus-forge-3.2.0+1.20.1.jar"
+          }
+        },
+        {
+          "id": "Clumps-fabric-1.20.1-12.0.0.4.jar",
+          "name": "Clumps-fabric-1.20.1-12.0.0.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 21987,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/files/mods/Clumps-fabric-1.20.1-12.0.0.4.jar",
+            "MD5": "c9caf2ddb4085e89e0cc823b21bce025",
+            "path": "mods/Clumps-fabric-1.20.1-12.0.0.4.jar"
+          }
+        },
+        {
+          "id": "common-networking-forge-1.0.5-1.20.1.jar",
+          "name": "common-networking-forge-1.0.5-1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 20701,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/files/mods/common-networking-forge-1.0.5-1.20.1.jar",
+            "MD5": "3c18ff746596a5e9fdec530f1a1621d5",
+            "path": "mods/common-networking-forge-1.0.5-1.20.1.jar"
+          }
+        },
+        {
+          "id": "Connector-1.0.0-beta.45+1.20.1.jar",
+          "name": "Connector-1.0.0-beta.45+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 4680145,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/files/mods/Connector-1.0.0-beta.45+1.20.1.jar",
+            "MD5": "c1bb644b86a0231f7b51f486ea8bab0b",
+            "path": "mods/Connector-1.0.0-beta.45+1.20.1.jar"
+          }
+        },
+        {
+          "id": "geckolib-forge-1.20.1-4.4.9.jar",
+          "name": "geckolib-forge-1.20.1-4.4.9.jar",
+          "type": "File",
+          "artifact": {
+            "size": 991552,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/files/mods/geckolib-forge-1.20.1-4.4.9.jar",
+            "MD5": "bc7b4e71baa76fa0d7ac475568a0f20c",
+            "path": "mods/geckolib-forge-1.20.1-4.4.9.jar"
+          }
+        },
+        {
+          "id": "hardcorerevival-forge-1.20.1-12.0.6.jar",
+          "name": "hardcorerevival-forge-1.20.1-12.0.6.jar",
+          "type": "File",
+          "artifact": {
+            "size": 221239,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/files/mods/hardcorerevival-forge-1.20.1-12.0.6.jar",
+            "MD5": "78eb56282c2ff74ea9aaf538e80c8a4b",
+            "path": "mods/hardcorerevival-forge-1.20.1-12.0.6.jar"
+          }
+        },
+        {
+          "id": "hdskins-6.10.3+1.20.1.jar",
+          "name": "hdskins-6.10.3+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1410041,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/files/mods/hdskins-6.10.3+1.20.1.jar",
+            "MD5": "08d12dfe9942593be328745422654b33",
+            "path": "mods/hdskins-6.10.3+1.20.1.jar"
+          }
+        },
+        {
+          "id": "litematica-fabric-1.20.1-0.15.4.jar",
+          "name": "litematica-fabric-1.20.1-0.15.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 923876,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/files/mods/litematica-fabric-1.20.1-0.15.4.jar",
+            "MD5": "4f716692227e2e5290aa862984104316",
+            "path": "mods/litematica-fabric-1.20.1-0.15.4.jar"
+          }
+        },
+        {
+          "id": "memoryleakfix-forge-1.17+-1.1.5.jar",
+          "name": "memoryleakfix-forge-1.17+-1.1.5.jar",
+          "type": "File",
+          "artifact": {
+            "size": 227925,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/files/mods/memoryleakfix-forge-1.17+-1.1.5.jar",
+            "MD5": "5dd9149414ca375ceab146242c6e84ab",
+            "path": "mods/memoryleakfix-forge-1.17+-1.1.5.jar"
+          }
+        },
+        {
+          "id": "minecells-1.8.5.jar",
+          "name": "minecells-1.8.5.jar",
+          "type": "File",
+          "artifact": {
+            "size": 4872031,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/files/mods/minecells-1.8.5.jar",
+            "MD5": "053301e09959d253722ca4c774eb5562",
+            "path": "mods/minecells-1.8.5.jar"
+          }
+        },
+        {
+          "id": "originfur-1.0.10.jar",
+          "name": "originfur-1.0.10.jar",
+          "type": "File",
+          "artifact": {
+            "size": 627739,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/files/mods/originfur-1.0.10.jar",
+            "MD5": "3147262adec934e4230829fd6df7b869",
+            "path": "mods/originfur-1.0.10.jar"
+          }
+        },
+        {
+          "id": "Schwarz Origin Update.jar",
+          "name": "Schwarz Origin Update.jar",
+          "type": "File",
+          "artifact": {
+            "size": 268412,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/files/mods/Schwarz%20Origin%20Update.jar",
+            "MD5": "6ffd94f6e8e939a0574d050cbe525506",
+            "path": "mods/Schwarz Origin Update.jar"
+          }
+        },
+        {
+          "id": "SmartBrainLib-forge-1.20.1-1.15.jar",
+          "name": "SmartBrainLib-forge-1.20.1-1.15.jar",
+          "type": "File",
+          "artifact": {
+            "size": 362339,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/files/mods/SmartBrainLib-forge-1.20.1-1.15.jar",
+            "MD5": "66b1b63bc195eeeb51de8d3e8b12ab21",
+            "path": "mods/SmartBrainLib-forge-1.20.1-1.15.jar"
+          }
+        },
+        {
+          "id": "Vampire fIX 1-v2.2.0.jar",
+          "name": "Vampire fIX 1-v2.2.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 198439,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SS2_Forge-1.20.1/files/mods/Vampire%20fIX%201-v2.2.0.jar",
+            "MD5": "616bde1eaaec296e4c09c68376daee46",
+            "path": "mods/Vampire fIX 1-v2.2.0.jar"
+          }
+        }
+      ]
+    }
+  ]
+}
