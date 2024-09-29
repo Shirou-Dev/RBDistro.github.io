@@ -17,12 +17,5 @@
   "forge": {
     "version": "47.3.10"
   },
-  "untrackedFiles": [
-	{
-		"appliesTo": ["files"],
-		"patterns": [
-			"mods/*.jar"
-		]
-	}
-  ]
+  "untrackedFiles": []
 }
