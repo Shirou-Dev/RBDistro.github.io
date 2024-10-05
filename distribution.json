@@ -13,7 +13,7 @@
       "description": "Fabric v0.16.3",
       "icon": "https://i.imgur.com/jYpvNyJ.png",
       "version": "1.0.0",
-      "address": "rebootproject-smp.online",
+      "address": "rebootproject-smp.online:25681",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "",
@@ -986,13 +986,13 @@
           }
         },
         {
-          "id": "Schwarz Origin phase 2 update 1.jar",
-          "name": "Schwarz Origin phase 2 update 1.jar",
+          "id": "Schwarz Origin phase 2 update 1(bug fix).jar",
+          "name": "Schwarz Origin phase 2 update 1(bug fix).jar",
           "type": "File",
           "artifact": {
-            "size": 448090,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Schwarz%20Origin%20phase%202%20update%201.jar",
-            "path": "mods/Schwarz Origin phase 2 update 1.jar"
+            "size": 171946,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Schwarz%20Origin%20phase%202%20update%201(bug%20fix).jar",
+            "path": "mods/Schwarz Origin phase 2 update 1(bug fix).jar"
           }
         },
         {
