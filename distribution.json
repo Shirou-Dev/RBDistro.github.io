@@ -606,6 +606,16 @@
           }
         },
         {
+          "id": "ImmediatelyFast-Fabric-1.2.18+1.20.4.jar",
+          "name": "ImmediatelyFast-Fabric-1.2.18+1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 250364,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/ImmediatelyFast-Fabric-1.2.18+1.20.4.jar",
+            "path": "mods/ImmediatelyFast-Fabric-1.2.18+1.20.4.jar"
+          }
+        },
+        {
           "id": "jei-1.20.1-fabric-15.17.0.74.jar",
           "name": "jei-1.20.1-fabric-15.17.0.74.jar",
           "type": "File",
@@ -753,6 +763,16 @@
             "size": 1009770,
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/mobs_of_mythology-fabric-1.20.1-2.0.2.jar",
             "path": "mods/mobs_of_mythology-fabric-1.20.1-2.0.2.jar"
+          }
+        },
+        {
+          "id": "modernfix-fabric-5.18.10+mc1.20.1.jar",
+          "name": "modernfix-fabric-5.18.10+mc1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 642709,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/modernfix-fabric-5.18.10+mc1.20.1.jar",
+            "path": "mods/modernfix-fabric-5.18.10+mc1.20.1.jar"
           }
         },
         {
@@ -990,7 +1010,7 @@
           "name": "Schwarz Origin phase 2 update 1(bug fix).jar",
           "type": "File",
           "artifact": {
-            "size": 451211,
+            "size": 451143,
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Schwarz%20Origin%20phase%202%20update%201(bug%20fix).jar",
             "path": "mods/Schwarz Origin phase 2 update 1(bug fix).jar"
           }
@@ -1073,6 +1093,16 @@
             "size": 198439,
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Vampire%20fIX%201-v2.2.0.jar",
             "path": "mods/Vampire fIX 1-v2.2.0.jar"
+          }
+        },
+        {
+          "id": "vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
+          "name": "vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
+          "type": "File",
+          "artifact": {
+            "size": 487043,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
+            "path": "mods/vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar"
           }
         },
         {
