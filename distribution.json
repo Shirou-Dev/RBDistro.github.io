@@ -976,17 +976,6 @@
           }
         },
         {
-          "id": "RB-SS2-Mods.rar",
-          "name": "RB-SS2-Mods.rar",
-          "type": "File",
-          "artifact": {
-            "size": 141576753,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/RB-SS2-Mods.rar",
-            "MD5": "231af66005d648ac2e9338650b743ebb",
-            "path": "mods/RB-SS2-Mods.rar"
-          }
-        },
-        {
           "id": "reincarnation-origins-phoenix-1.0.4-1.20.jar",
           "name": "reincarnation-origins-phoenix-1.0.4-1.20.jar",
           "type": "File",
