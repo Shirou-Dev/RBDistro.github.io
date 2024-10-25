@@ -7,9 +7,10 @@
     "icon": "https://i.imgur.com/jYpvNyJ.png",
     "address": "rebootproject-smp.online:25681",
     "discord": {
-      "shortId": "",
-      "largeImageText": "",
-      "largeImageKey": ""
+      "shortId": "SS2 | The Curse of History",
+      "largeImageText": "The Curse of History",
+      "largeImageKey": "logorbss2",
+	  "smallImageKey": "logorb"
     },
     "mainServer": true,
     "autoconnect": false
