@@ -13,7 +13,7 @@
       "description": "Fabric v0.16.3",
       "icon": "https://i.imgur.com/jYpvNyJ.png",
       "version": "1.0.0",
-      "address": "rebootproject-smp.online:25681",
+      "address": "rebootproject-smp.ddns.net:25681",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "SS2 | The Curse of History",
@@ -1152,9 +1152,9 @@
       "id": "RB_SMP_HighQuality-1.20.1",
       "name": "RB_SMP_HighQuality (MC 1.20.1)",
       "description": "Forge v47.3.11",
-      "icon": null,
+      "icon": "https://i.imgur.com/qGs2Vrq.png",
       "version": "1.0.0",
-      "address": "rebootproject-smp.online:25681",
+      "address": "rebootproject-smp.ddns.net:25681",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "RB-SMP 1.20.1",
