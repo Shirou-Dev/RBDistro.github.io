@@ -23,7 +23,16 @@
 		"appliesTo": ["files"],
 		"patterns": [
 			"mods/*.jar",
-			"options.txt"
+			"options.txt",
+			"config/**/*",
+			"config/*.cfg",
+			"config/**/*.yml",
+			"config/**/*.txt",
+			"config/**/*.toml",
+			"config/*.toml",
+			"config/*.json",
+			"config/*.properties",
+			"config/*.json5"
 		]
 	}
   ]
