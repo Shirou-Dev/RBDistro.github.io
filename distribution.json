@@ -6207,6 +6207,16 @@
           }
         },
         {
+          "id": "CraterLib-Forge-1.20-2.1.1.jar",
+          "name": "CraterLib-Forge-1.20-2.1.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1973136,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/CraterLib-Forge-1.20-2.1.1.jar",
+            "path": "mods/CraterLib-Forge-1.20-2.1.1.jar"
+          }
+        },
+        {
           "id": "create-1.20.1-0.5.1.i.jar",
           "name": "create-1.20.1-0.5.1.i.jar",
           "type": "File",
@@ -6604,6 +6614,16 @@
             "size": 202229,
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/gourmet-0.1.1b-1.20.1.jar",
             "path": "mods/gourmet-0.1.1b-1.20.1.jar"
+          }
+        },
+        {
+          "id": "grieflogger-1.1.5-forge.jar",
+          "name": "grieflogger-1.1.5-forge.jar",
+          "type": "File",
+          "artifact": {
+            "size": 17801530,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/grieflogger-1.1.5-forge.jar",
+            "path": "mods/grieflogger-1.1.5-forge.jar"
           }
         },
         {
