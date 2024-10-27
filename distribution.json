@@ -6617,16 +6617,6 @@
           }
         },
         {
-          "id": "grieflogger-1.1.5-forge.jar",
-          "name": "grieflogger-1.1.5-forge.jar",
-          "type": "File",
-          "artifact": {
-            "size": 17801530,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/grieflogger-1.1.5-forge.jar",
-            "path": "mods/grieflogger-1.1.5-forge.jar"
-          }
-        },
-        {
           "id": "guardvillagers-1.20.1-1.6.7.jar",
           "name": "guardvillagers-1.20.1-1.6.7.jar",
           "type": "File",
