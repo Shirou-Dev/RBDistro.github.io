@@ -1153,7 +1153,7 @@
       "name": "RB_SMP_HighQuality (MC 1.20.1)",
       "description": "Forge v47.3.11",
       "icon": "https://i.imgur.com/qGs2Vrq.png",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "address": "rebootproject-smp.ddns.net:25681",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -5917,13 +5917,13 @@
           }
         },
         {
-          "id": "AmbientSounds_FORGE_v6.1.1_mc1.20.1.jar",
-          "name": "AmbientSounds_FORGE_v6.1.1_mc1.20.1.jar",
+          "id": "AmbientSounds_FORGE_v6.1.3_mc1.20.1.jar",
+          "name": "AmbientSounds_FORGE_v6.1.3_mc1.20.1.jar",
           "type": "File",
           "artifact": {
-            "size": 85695724,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/AmbientSounds_FORGE_v6.1.1_mc1.20.1.jar",
-            "path": "mods/AmbientSounds_FORGE_v6.1.1_mc1.20.1.jar"
+            "size": 83885723,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/AmbientSounds_FORGE_v6.1.3_mc1.20.1.jar",
+            "path": "mods/AmbientSounds_FORGE_v6.1.3_mc1.20.1.jar"
           }
         },
         {
@@ -5977,13 +5977,13 @@
           }
         },
         {
-          "id": "BadOptimizations-2.1.4-1.20.1.jar",
-          "name": "BadOptimizations-2.1.4-1.20.1.jar",
+          "id": "BadOptimizations-2.2.0-1.20.1.jar",
+          "name": "BadOptimizations-2.2.0-1.20.1.jar",
           "type": "File",
           "artifact": {
-            "size": 421754,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/BadOptimizations-2.1.4-1.20.1.jar",
-            "path": "mods/BadOptimizations-2.1.4-1.20.1.jar"
+            "size": 438559,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/BadOptimizations-2.2.0-1.20.1.jar",
+            "path": "mods/BadOptimizations-2.2.0-1.20.1.jar"
           }
         },
         {
@@ -6007,13 +6007,13 @@
           }
         },
         {
-          "id": "BEB-FORGE-1.20.1-1.0.0.jar",
-          "name": "BEB-FORGE-1.20.1-1.0.0.jar",
+          "id": "bendy-lib-forge-4.0.0.jar",
+          "name": "bendy-lib-forge-4.0.0.jar",
           "type": "File",
           "artifact": {
-            "size": 299151,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/BEB-FORGE-1.20.1-1.0.0.jar",
-            "path": "mods/BEB-FORGE-1.20.1-1.0.0.jar"
+            "size": 50745,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/bendy-lib-forge-4.0.0.jar",
+            "path": "mods/bendy-lib-forge-4.0.0.jar"
           }
         },
         {
@@ -6117,13 +6117,13 @@
           }
         },
         {
-          "id": "chat_heads-0.13.3-forge-1.20.jar",
-          "name": "chat_heads-0.13.3-forge-1.20.jar",
+          "id": "chat_heads-0.13.4-forge-1.20.jar",
+          "name": "chat_heads-0.13.4-forge-1.20.jar",
           "type": "File",
           "artifact": {
-            "size": 261328,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/chat_heads-0.13.3-forge-1.20.jar",
-            "path": "mods/chat_heads-0.13.3-forge-1.20.jar"
+            "size": 260957,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/chat_heads-0.13.4-forge-1.20.jar",
+            "path": "mods/chat_heads-0.13.4-forge-1.20.jar"
           }
         },
         {
@@ -6147,13 +6147,13 @@
           }
         },
         {
-          "id": "collective-1.20.1-7.84.jar",
-          "name": "collective-1.20.1-7.84.jar",
+          "id": "collective-1.20.1-7.87.jar",
+          "name": "collective-1.20.1-7.87.jar",
           "type": "File",
           "artifact": {
-            "size": 647473,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/collective-1.20.1-7.84.jar",
-            "path": "mods/collective-1.20.1-7.84.jar"
+            "size": 648876,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/collective-1.20.1-7.87.jar",
+            "path": "mods/collective-1.20.1-7.87.jar"
           }
         },
         {
@@ -6187,13 +6187,13 @@
           }
         },
         {
-          "id": "corpse-forge-1.20.1-1.0.15.jar",
-          "name": "corpse-forge-1.20.1-1.0.15.jar",
+          "id": "corpse-forge-1.20.1-1.0.17.jar",
+          "name": "corpse-forge-1.20.1-1.0.17.jar",
           "type": "File",
           "artifact": {
-            "size": 244318,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/corpse-forge-1.20.1-1.0.15.jar",
-            "path": "mods/corpse-forge-1.20.1-1.0.15.jar"
+            "size": 244310,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/corpse-forge-1.20.1-1.0.17.jar",
+            "path": "mods/corpse-forge-1.20.1-1.0.17.jar"
           }
         },
         {
@@ -6207,23 +6207,13 @@
           }
         },
         {
-          "id": "CraterLib-Forge-1.20-2.1.1.jar",
-          "name": "CraterLib-Forge-1.20-2.1.1.jar",
+          "id": "create-1.20.1-0.5.1.j.jar",
+          "name": "create-1.20.1-0.5.1.j.jar",
           "type": "File",
           "artifact": {
-            "size": 1973136,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/CraterLib-Forge-1.20-2.1.1.jar",
-            "path": "mods/CraterLib-Forge-1.20-2.1.1.jar"
-          }
-        },
-        {
-          "id": "create-1.20.1-0.5.1.i.jar",
-          "name": "create-1.20.1-0.5.1.i.jar",
-          "type": "File",
-          "artifact": {
-            "size": 15584088,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/create-1.20.1-0.5.1.i.jar",
-            "path": "mods/create-1.20.1-0.5.1.i.jar"
+            "size": 15583566,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/create-1.20.1-0.5.1.j.jar",
+            "path": "mods/create-1.20.1-0.5.1.j.jar"
           }
         },
         {
@@ -6237,23 +6227,23 @@
           }
         },
         {
-          "id": "create-stuff-additions1.20.1_v2.0.4a.jar",
-          "name": "create-stuff-additions1.20.1_v2.0.4a.jar",
+          "id": "create-stuff-additions1.20.1_v2.0.5.jar",
+          "name": "create-stuff-additions1.20.1_v2.0.5.jar",
           "type": "File",
           "artifact": {
-            "size": 1151274,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/create-stuff-additions1.20.1_v2.0.4a.jar",
-            "path": "mods/create-stuff-additions1.20.1_v2.0.4a.jar"
+            "size": 1191591,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/create-stuff-additions1.20.1_v2.0.5.jar",
+            "path": "mods/create-stuff-additions1.20.1_v2.0.5.jar"
           }
         },
         {
-          "id": "CreativeCore_FORGE_v2.12.17_mc1.20.1.jar",
-          "name": "CreativeCore_FORGE_v2.12.17_mc1.20.1.jar",
+          "id": "CreativeCore_FORGE_v2.12.21_mc1.20.1.jar",
+          "name": "CreativeCore_FORGE_v2.12.21_mc1.20.1.jar",
           "type": "File",
           "artifact": {
-            "size": 1144775,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/CreativeCore_FORGE_v2.12.17_mc1.20.1.jar",
-            "path": "mods/CreativeCore_FORGE_v2.12.17_mc1.20.1.jar"
+            "size": 1146473,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/CreativeCore_FORGE_v2.12.21_mc1.20.1.jar",
+            "path": "mods/CreativeCore_FORGE_v2.12.21_mc1.20.1.jar"
           }
         },
         {
@@ -6287,13 +6277,13 @@
           }
         },
         {
-          "id": "curios-forge-5.10.0+1.20.1.jar",
-          "name": "curios-forge-5.10.0+1.20.1.jar",
+          "id": "curios-forge-5.11.0+1.20.1.jar",
+          "name": "curios-forge-5.11.0+1.20.1.jar",
           "type": "File",
           "artifact": {
-            "size": 384929,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/curios-forge-5.10.0+1.20.1.jar",
-            "path": "mods/curios-forge-5.10.0+1.20.1.jar"
+            "size": 389988,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/curios-forge-5.11.0+1.20.1.jar",
+            "path": "mods/curios-forge-5.11.0+1.20.1.jar"
           }
         },
         {
@@ -6347,6 +6337,16 @@
           }
         },
         {
+          "id": "DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar",
+          "name": "DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar",
+          "type": "File",
+          "artifact": {
+            "size": 248169,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar",
+            "path": "mods/DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar"
+          }
+        },
+        {
           "id": "durabilitytooltip-1.1.5-forge-mc1.20.jar",
           "name": "durabilitytooltip-1.1.5-forge-mc1.20.jar",
           "type": "File",
@@ -6397,13 +6397,13 @@
           }
         },
         {
-          "id": "EnchantmentDescriptions-Forge-1.20.1-17.1.18.jar",
-          "name": "EnchantmentDescriptions-Forge-1.20.1-17.1.18.jar",
+          "id": "EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+          "name": "EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
           "type": "File",
           "artifact": {
-            "size": 69356,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/EnchantmentDescriptions-Forge-1.20.1-17.1.18.jar",
-            "path": "mods/EnchantmentDescriptions-Forge-1.20.1-17.1.18.jar"
+            "size": 69476,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+            "path": "mods/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar"
           }
         },
         {
@@ -6417,23 +6417,13 @@
           }
         },
         {
-          "id": "enhanced_boss_bars-1.20.1-1.0.0.jar",
-          "name": "enhanced_boss_bars-1.20.1-1.0.0.jar",
+          "id": "entityculling-forge-1.7.1-mc1.20.1.jar",
+          "name": "entityculling-forge-1.7.1-mc1.20.1.jar",
           "type": "File",
           "artifact": {
-            "size": 254629,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/enhanced_boss_bars-1.20.1-1.0.0.jar",
-            "path": "mods/enhanced_boss_bars-1.20.1-1.0.0.jar"
-          }
-        },
-        {
-          "id": "entityculling-forge-1.7.0-mc1.20.1.jar",
-          "name": "entityculling-forge-1.7.0-mc1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 71441,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/entityculling-forge-1.7.0-mc1.20.1.jar",
-            "path": "mods/entityculling-forge-1.7.0-mc1.20.1.jar"
+            "size": 72990,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/entityculling-forge-1.7.1-mc1.20.1.jar",
+            "path": "mods/entityculling-forge-1.7.1-mc1.20.1.jar"
           }
         },
         {
@@ -6457,13 +6447,13 @@
           }
         },
         {
-          "id": "fancymenu_forge_3.3.1_MC_1.20.1.jar",
-          "name": "fancymenu_forge_3.3.1_MC_1.20.1.jar",
+          "id": "fancymenu_forge_3.3.2_MC_1.20.1.jar",
+          "name": "fancymenu_forge_3.3.2_MC_1.20.1.jar",
           "type": "File",
           "artifact": {
-            "size": 2897660,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/fancymenu_forge_3.3.1_MC_1.20.1.jar",
-            "path": "mods/fancymenu_forge_3.3.1_MC_1.20.1.jar"
+            "size": 2897882,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/fancymenu_forge_3.3.2_MC_1.20.1.jar",
+            "path": "mods/fancymenu_forge_3.3.2_MC_1.20.1.jar"
           }
         },
         {
@@ -6527,13 +6517,13 @@
           }
         },
         {
-          "id": "figura-0.1.2+1.20.1.jar",
-          "name": "figura-0.1.2+1.20.1.jar",
+          "id": "figura-0.1.4+1.20.1-forge-mc.jar",
+          "name": "figura-0.1.4+1.20.1-forge-mc.jar",
           "type": "File",
           "artifact": {
-            "size": 4037906,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/figura-0.1.2+1.20.1.jar",
-            "path": "mods/figura-0.1.2+1.20.1.jar"
+            "size": 2189443,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/figura-0.1.4+1.20.1-forge-mc.jar",
+            "path": "mods/figura-0.1.4+1.20.1-forge-mc.jar"
           }
         },
         {
@@ -6547,23 +6537,23 @@
           }
         },
         {
-          "id": "framework-forge-1.20.1-0.7.8.jar",
-          "name": "framework-forge-1.20.1-0.7.8.jar",
+          "id": "framework-forge-1.20.1-0.7.11.jar",
+          "name": "framework-forge-1.20.1-0.7.11.jar",
           "type": "File",
           "artifact": {
-            "size": 303364,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/framework-forge-1.20.1-0.7.8.jar",
-            "path": "mods/framework-forge-1.20.1-0.7.8.jar"
+            "size": 306415,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/framework-forge-1.20.1-0.7.11.jar",
+            "path": "mods/framework-forge-1.20.1-0.7.11.jar"
           }
         },
         {
-          "id": "ftb-chunks-forge-2001.3.1.jar",
-          "name": "ftb-chunks-forge-2001.3.1.jar",
+          "id": "ftb-chunks-forge-2001.3.2.jar",
+          "name": "ftb-chunks-forge-2001.3.2.jar",
           "type": "File",
           "artifact": {
-            "size": 886468,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/ftb-chunks-forge-2001.3.1.jar",
-            "path": "mods/ftb-chunks-forge-2001.3.1.jar"
+            "size": 941191,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/ftb-chunks-forge-2001.3.2.jar",
+            "path": "mods/ftb-chunks-forge-2001.3.2.jar"
           }
         },
         {
@@ -6647,13 +6637,13 @@
           }
         },
         {
-          "id": "Iceberg-1.20.1-forge-1.1.21.jar",
-          "name": "Iceberg-1.20.1-forge-1.1.21.jar",
+          "id": "Iceberg-1.20.1-forge-1.1.25.jar",
+          "name": "Iceberg-1.20.1-forge-1.1.25.jar",
           "type": "File",
           "artifact": {
-            "size": 133685,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/Iceberg-1.20.1-forge-1.1.21.jar",
-            "path": "mods/Iceberg-1.20.1-forge-1.1.21.jar"
+            "size": 134551,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/Iceberg-1.20.1-forge-1.1.25.jar",
+            "path": "mods/Iceberg-1.20.1-forge-1.1.25.jar"
           }
         },
         {
@@ -6677,13 +6667,13 @@
           }
         },
         {
-          "id": "ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
-          "name": "ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
+          "id": "ImmediatelyFast-Forge-1.3.1+1.20.4.jar",
+          "name": "ImmediatelyFast-Forge-1.3.1+1.20.4.jar",
           "type": "File",
           "artifact": {
-            "size": 432352,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
-            "path": "mods/ImmediatelyFast-Forge-1.2.21+1.20.4.jar"
+            "size": 450335,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/ImmediatelyFast-Forge-1.3.1+1.20.4.jar",
+            "path": "mods/ImmediatelyFast-Forge-1.3.1+1.20.4.jar"
           }
         },
         {
@@ -6757,13 +6747,13 @@
           }
         },
         {
-          "id": "jei-1.20.1-forge-15.20.0.104.jar",
-          "name": "jei-1.20.1-forge-15.20.0.104.jar",
+          "id": "jei-1.20.1-forge-15.20.0.105.jar",
+          "name": "jei-1.20.1-forge-15.20.0.105.jar",
           "type": "File",
           "artifact": {
-            "size": 1406021,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/jei-1.20.1-forge-15.20.0.104.jar",
-            "path": "mods/jei-1.20.1-forge-15.20.0.104.jar"
+            "size": 1379051,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/jei-1.20.1-forge-15.20.0.105.jar",
+            "path": "mods/jei-1.20.1-forge-15.20.0.105.jar"
           }
         },
         {
@@ -6797,13 +6787,13 @@
           }
         },
         {
-          "id": "kubejs-forge-2001.6.5-build.14.jar",
-          "name": "kubejs-forge-2001.6.5-build.14.jar",
+          "id": "kubejs-forge-2001.6.5-build.16.jar",
+          "name": "kubejs-forge-2001.6.5-build.16.jar",
           "type": "File",
           "artifact": {
-            "size": 1654724,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/kubejs-forge-2001.6.5-build.14.jar",
-            "path": "mods/kubejs-forge-2001.6.5-build.14.jar"
+            "size": 1654660,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/kubejs-forge-2001.6.5-build.16.jar",
+            "path": "mods/kubejs-forge-2001.6.5-build.16.jar"
           }
         },
         {
@@ -6837,13 +6827,13 @@
           }
         },
         {
-          "id": "lithostitched-forge-1.20.1-1.3.1a.jar",
-          "name": "lithostitched-forge-1.20.1-1.3.1a.jar",
+          "id": "lithostitched-forge-1.20.1-1.3.4.jar",
+          "name": "lithostitched-forge-1.20.1-1.3.4.jar",
           "type": "File",
           "artifact": {
-            "size": 224544,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/lithostitched-forge-1.20.1-1.3.1a.jar",
-            "path": "mods/lithostitched-forge-1.20.1-1.3.1a.jar"
+            "size": 352515,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/lithostitched-forge-1.20.1-1.3.4.jar",
+            "path": "mods/lithostitched-forge-1.20.1-1.3.4.jar"
           }
         },
         {
@@ -6857,13 +6847,13 @@
           }
         },
         {
-          "id": "L_Enders_Cataclysm-2.11 - 1.20.1.jar",
-          "name": "L_Enders_Cataclysm-2.11 - 1.20.1.jar",
+          "id": "L_Enders_Cataclysm-2.16 - 1.20.1.jar",
+          "name": "L_Enders_Cataclysm-2.16 - 1.20.1.jar",
           "type": "File",
           "artifact": {
-            "size": 68820105,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/L_Enders_Cataclysm-2.11%20-%201.20.1.jar",
-            "path": "mods/L_Enders_Cataclysm-2.11 - 1.20.1.jar"
+            "size": 71564686,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/L_Enders_Cataclysm-2.16%20-%201.20.1.jar",
+            "path": "mods/L_Enders_Cataclysm-2.16 - 1.20.1.jar"
           }
         },
         {
@@ -6947,13 +6937,13 @@
           }
         },
         {
-          "id": "moonlight-1.20-2.13.7-forge.jar",
-          "name": "moonlight-1.20-2.13.7-forge.jar",
+          "id": "moonlight-1.20-2.13.20-forge.jar",
+          "name": "moonlight-1.20-2.13.20-forge.jar",
           "type": "File",
           "artifact": {
-            "size": 1185264,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/moonlight-1.20-2.13.7-forge.jar",
-            "path": "mods/moonlight-1.20-2.13.7-forge.jar"
+            "size": 1190606,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/moonlight-1.20-2.13.20-forge.jar",
+            "path": "mods/moonlight-1.20-2.13.20-forge.jar"
           }
         },
         {
@@ -6987,13 +6977,13 @@
           }
         },
         {
-          "id": "MRU-1.0.3+1.20.1+forge.jar",
-          "name": "MRU-1.0.3+1.20.1+forge.jar",
+          "id": "MRU-1.0.4+1.20.1+forge.jar",
+          "name": "MRU-1.0.4+1.20.1+forge.jar",
           "type": "File",
           "artifact": {
-            "size": 287172,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/MRU-1.0.3+1.20.1+forge.jar",
-            "path": "mods/MRU-1.0.3+1.20.1+forge.jar"
+            "size": 287393,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/MRU-1.0.4+1.20.1+forge.jar",
+            "path": "mods/MRU-1.0.4+1.20.1+forge.jar"
           }
         },
         {
@@ -7227,6 +7217,16 @@
           }
         },
         {
+          "id": "SimpleDiscordRichPresence-forge-4.0.3-build.40+mc1.20.1.jar",
+          "name": "SimpleDiscordRichPresence-forge-4.0.3-build.40+mc1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1198997,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/SimpleDiscordRichPresence-forge-4.0.3-build.40+mc1.20.1.jar",
+            "path": "mods/SimpleDiscordRichPresence-forge-4.0.3-build.40+mc1.20.1.jar"
+          }
+        },
+        {
           "id": "Sky Structures 1.0.0 - 1.20.1.jar",
           "name": "Sky Structures 1.0.0 - 1.20.1.jar",
           "type": "File",
@@ -7257,13 +7257,13 @@
           }
         },
         {
-          "id": "sodiumoptionsapi-forge-1.0.3-1.20.1.jar",
-          "name": "sodiumoptionsapi-forge-1.0.3-1.20.1.jar",
+          "id": "sodiumoptionsapi-forge-1.0.5-1.20.1.jar",
+          "name": "sodiumoptionsapi-forge-1.0.5-1.20.1.jar",
           "type": "File",
           "artifact": {
-            "size": 443085,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/sodiumoptionsapi-forge-1.0.3-1.20.1.jar",
-            "path": "mods/sodiumoptionsapi-forge-1.0.3-1.20.1.jar"
+            "size": 443428,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/sodiumoptionsapi-forge-1.0.5-1.20.1.jar",
+            "path": "mods/sodiumoptionsapi-forge-1.0.5-1.20.1.jar"
           }
         },
         {
@@ -7297,13 +7297,13 @@
           }
         },
         {
-          "id": "Sounds-2.1.0+1.20.1+forge.jar",
-          "name": "Sounds-2.1.0+1.20.1+forge.jar",
+          "id": "Sounds-2.2.0+1.20.1+forge.jar",
+          "name": "Sounds-2.2.0+1.20.1+forge.jar",
           "type": "File",
           "artifact": {
-            "size": 10976853,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/Sounds-2.1.0+1.20.1+forge.jar",
-            "path": "mods/Sounds-2.1.0+1.20.1+forge.jar"
+            "size": 10974915,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/Sounds-2.2.0+1.20.1+forge.jar",
+            "path": "mods/Sounds-2.2.0+1.20.1+forge.jar"
           }
         },
         {
@@ -7437,13 +7437,13 @@
           }
         },
         {
-          "id": "waystones-forge-1.20-14.1.5.jar",
-          "name": "waystones-forge-1.20-14.1.5.jar",
+          "id": "waystones-forge-1.20-14.1.6.jar",
+          "name": "waystones-forge-1.20-14.1.6.jar",
           "type": "File",
           "artifact": {
-            "size": 483650,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/waystones-forge-1.20-14.1.5.jar",
-            "path": "mods/waystones-forge-1.20-14.1.5.jar"
+            "size": 484221,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/waystones-forge-1.20-14.1.6.jar",
+            "path": "mods/waystones-forge-1.20-14.1.6.jar"
           }
         },
         {
@@ -7477,13 +7477,13 @@
           }
         },
         {
-          "id": "Xaeros_Minimap_24.5.0_Forge_1.20.jar",
-          "name": "Xaeros_Minimap_24.5.0_Forge_1.20.jar",
+          "id": "Xaeros_Minimap_24.6.1_Forge_1.20.jar",
+          "name": "Xaeros_Minimap_24.6.1_Forge_1.20.jar",
           "type": "File",
           "artifact": {
-            "size": 1582645,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/Xaeros_Minimap_24.5.0_Forge_1.20.jar",
-            "path": "mods/Xaeros_Minimap_24.5.0_Forge_1.20.jar"
+            "size": 1605900,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB_SMP_HighQuality-1.20.1/files/mods/Xaeros_Minimap_24.6.1_Forge_1.20.jar",
+            "path": "mods/Xaeros_Minimap_24.6.1_Forge_1.20.jar"
           }
         },
         {

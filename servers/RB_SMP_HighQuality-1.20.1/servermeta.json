@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/RBBaseTest/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "name": "RB_SMP_HighQuality (MC 1.20.1)",
     "description": "Forge v47.3.11",
     "icon": "https://i.imgur.com/qGs2Vrq.png",
