@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/RBBaseTest/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.1.0",
+    "version": "1.1.2",
     "name": "RB-PJ-SS2 (MC 1.20.1)",
     "description": "Fabric v0.16.3",
     "icon": "https://i.imgur.com/jYpvNyJ.png",

@@ -12,7 +12,7 @@
       "name": "RB-PJ-SS2 (MC 1.20.1)",
       "description": "Fabric v0.16.3",
       "icon": "https://i.imgur.com/jYpvNyJ.png",
-      "version": "1.1.0",
+      "version": "1.1.2",
       "address": "rebootproject-smp.ddns.net:25681",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -1126,17 +1126,6 @@
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/resourcefulconfig-fabric-1.20.1-2.1.2.jar",
             "MD5": "84b1427c5d4cfd30e54c20ba4120e8d3",
             "path": "mods/resourcefulconfig-fabric-1.20.1-2.1.2.jar"
-          }
-        },
-        {
-          "id": "seasonhud-fabric-1.20.1-1.11.4.jar",
-          "name": "seasonhud-fabric-1.20.1-1.11.4.jar",
-          "type": "File",
-          "artifact": {
-            "size": 270735,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/seasonhud-fabric-1.20.1-1.11.4.jar",
-            "MD5": "377667fcc01dd29df0d9ed43a936d3d4",
-            "path": "mods/seasonhud-fabric-1.20.1-1.11.4.jar"
           }
         },
         {
