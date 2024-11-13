@@ -12,7 +12,7 @@
       "name": "RB-PJ-SS2 (MC 1.20.1)",
       "description": "Fabric v0.16.3",
       "icon": "https://i.imgur.com/jYpvNyJ.png",
-      "version": "1.0.0",
+      "version": "1.0.5",
       "address": "rebootproject-smp.ddns.net:25681",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -977,6 +977,16 @@
           }
         },
         {
+          "id": "Reboot Origin.jar",
+          "name": "Reboot Origin.jar",
+          "type": "File",
+          "artifact": {
+            "size": 847813,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Reboot%20Origin.jar",
+            "path": "mods/Reboot Origin.jar"
+          }
+        },
+        {
           "id": "reincarnation-origins-phoenix-1.0.4-1.20.jar",
           "name": "reincarnation-origins-phoenix-1.0.4-1.20.jar",
           "type": "File",
@@ -1004,26 +1014,6 @@
             "size": 134793,
             "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/resourcefulconfig-fabric-1.20.1-2.1.2.jar",
             "path": "mods/resourcefulconfig-fabric-1.20.1-2.1.2.jar"
-          }
-        },
-        {
-          "id": "Schwarz Origin phase 2 update 2.jar",
-          "name": "Schwarz Origin phase 2 update 2.jar",
-          "type": "File",
-          "artifact": {
-            "size": 611929,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Schwarz%20Origin%20phase%202%20update%202.jar",
-            "path": "mods/Schwarz Origin phase 2 update 2.jar"
-          }
-        },
-        {
-          "id": "servercore-fabric-1.5.1+1.20.1.jar",
-          "name": "servercore-fabric-1.5.1+1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 815391,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/servercore-fabric-1.5.1+1.20.1.jar",
-            "path": "mods/servercore-fabric-1.5.1+1.20.1.jar"
           }
         },
         {
@@ -1087,13 +1077,13 @@
           }
         },
         {
-          "id": "Vampire fIX 1-v2.2.0.jar",
-          "name": "Vampire fIX 1-v2.2.0.jar",
+          "id": "Vampire Reboot + Zaros.jar",
+          "name": "Vampire Reboot + Zaros.jar",
           "type": "File",
           "artifact": {
-            "size": 198439,
-            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Vampire%20fIX%201-v2.2.0.jar",
-            "path": "mods/Vampire fIX 1-v2.2.0.jar"
+            "size": 624640,
+            "url": "http://shirou-dev.github.io/RBDistro.github.io/servers/RB-PJ-SS2-1.20.1/files/mods/Vampire%20Reboot%20+%20Zaros.jar",
+            "path": "mods/Vampire Reboot + Zaros.jar"
           }
         },
         {
